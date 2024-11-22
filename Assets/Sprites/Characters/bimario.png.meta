@@ -1,0 +1,1139 @@
+fileFormatVersion: 2
+guid: 7ef38b329b4742f4eb1d4a5ba7e4548a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9160904334469707151
+    second: bimario_0
+  - first:
+      213: 7608999535383602089
+    second: bimario_1
+  - first:
+      213: -6386861799792001063
+    second: bimario_2
+  - first:
+      213: -3046481683501897282
+    second: bimario_3
+  - first:
+      213: 1790113252995266605
+    second: bimario_4
+  - first:
+      213: -9152980890522829753
+    second: bimario_5
+  - first:
+      213: -8903052178331204782
+    second: bimario_6
+  - first:
+      213: -4357961786777960951
+    second: bimario_7
+  - first:
+      213: 6792343803687360255
+    second: bimario_8
+  - first:
+      213: -1436728174108880825
+    second: bimario_9
+  - first:
+      213: -923436599476707463
+    second: bimario_10
+  - first:
+      213: 2577848241238590385
+    second: bimario_11
+  - first:
+      213: -1839824784508762300
+    second: bimario_12
+  - first:
+      213: 7215339376016521293
+    second: bimario_13
+  - first:
+      213: 704374636020403078
+    second: bimario_14
+  - first:
+      213: -1378144349289793351
+    second: bimario_15
+  - first:
+      213: 6904322092871389141
+    second: bimario_16
+  - first:
+      213: 8920876071281371826
+    second: bimario_17
+  - first:
+      213: -6393013224133000222
+    second: bimario_18
+  - first:
+      213: 4536994953620414235
+    second: bimario_19
+  - first:
+      213: -6544469594584910234
+    second: bimario_20
+  - first:
+      213: -2931249163612665998
+    second: bimario_21
+  - first:
+      213: -6778139848215431695
+    second: bimario_22
+  - first:
+      213: -4704393948089496188
+    second: bimario_23
+  - first:
+      213: -1240421985855323642
+    second: bimario_24
+  - first:
+      213: -9093031647386894707
+    second: bimario_25
+  - first:
+      213: 6730956119996181534
+    second: bimario_26
+  - first:
+      213: -3629191674317726105
+    second: bimario_27
+  - first:
+      213: -5210090412025425611
+    second: bimario_28
+  - first:
+      213: 1352334227608073033
+    second: bimario_29
+  - first:
+      213: -6777848385780730521
+    second: bimario_30
+  - first:
+      213: -737022497635949007
+    second: bimario_31
+  - first:
+      213: 7721764435281732607
+    second: bimario_32
+  - first:
+      213: 4813101297407294996
+    second: bimario_33
+  - first:
+      213: 3126764711814912958
+    second: bimario_34
+  - first:
+      213: -5283950968068813143
+    second: bimario_35
+  - first:
+      213: 536749691080576289
+    second: bimario_36
+  - first:
+      213: 4978101602738998199
+    second: bimario_37
+  - first:
+      213: 4340044065032714248
+    second: bimario_38
+  - first:
+      213: 2553850884336511046
+    second: bimario_39
+  - first:
+      213: 3574025042794434666
+    second: bimario_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bimario_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 202
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ac89a5b0eedd080800000000000000
+      internalID: -9160904334469707151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 202
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3e6a263c8989960800000000000000
+      internalID: 7608999535383602089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 202
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfb2e9380f4d57a0800000000000000
+      internalID: -6386861799792001063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 202
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9a220cc09b8b5d0800000000000000
+      internalID: -3046481683501897282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 202
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d287088e482c7d810800000000000000
+      internalID: 1790113252995266605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 202
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cb278ef541af080800000000000000
+      internalID: -9152980890522829753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 201
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2530dc5d631027480800000000000000
+      internalID: -8903052178331204782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e7f5a28d86583c0800000000000000
+      internalID: -4357961786777960951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 162
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff65c1bb3b0434e50800000000000000
+      internalID: 6792343803687360255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 162
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740d1777657bf0ce0800000000000000
+      internalID: -1436728174108880825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 162
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f989b2e4b4f23f0800000000000000
+      internalID: -923436599476707463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 162
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b344ef315b56c320800000000000000
+      internalID: 2577848241238590385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_12
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 162
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44745663b11a776e0800000000000000
+      internalID: -1839824784508762300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 162
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d487a591fe8022460800000000000000
+      internalID: 7215339376016521293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 122
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b8ac0eff076c900800000000000000
+      internalID: 704374636020403078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 122
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8be5b1409dfdce0800000000000000
+      internalID: -1378144349289793351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_16
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 122
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df0b70ec5411df50800000000000000
+      internalID: 6904322092871389141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_17
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 122
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba2202a5815dcb70800000000000000
+      internalID: 8920876071281371826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_18
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 122
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e38d2328547747a0800000000000000
+      internalID: -6393013224133000222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 122
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fd84e4fd4a6fe30800000000000000
+      internalID: 4536994953620414235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_20
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 126
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666fb6be39f5d25a0800000000000000
+      internalID: -6544469594584910234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 82
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277c4b68a6c1257d0800000000000000
+      internalID: -2931249163612665998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 82
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5f23d58b53fe1a0800000000000000
+      internalID: -6778139848215431695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 82
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dc0a011a2a6beb0800000000000000
+      internalID: -4704393948089496188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_24
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 83
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6024281a6c229cee0800000000000000
+      internalID: -1240421985855323642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 84
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e7e16c4ef0fc180800000000000000
+      internalID: -9093031647386894707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 82
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c2d13dde8296d50800000000000000
+      internalID: 6730956119996181534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 82
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e9c76866582adc0800000000000000
+      internalID: -3629191674317726105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 42
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5315e8fdf5a02b7b0800000000000000
+      internalID: -5210090412025425611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_29
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 42
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9437e26a0d474c210800000000000000
+      internalID: 1352334227608073033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_30
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 42
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765b510cdce30f1a0800000000000000
+      internalID: -6777848385780730521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_31
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 42
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13620fc71f195c5f0800000000000000
+      internalID: -737022497635949007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 42
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3663c97d7392b60800000000000000
+      internalID: 7721764435281732607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_33
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 42
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41efeeb01229bc240800000000000000
+      internalID: 4813101297407294996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb54f760ff746b20800000000000000
+      internalID: 3126764711814912958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae4da11792aba6b0800000000000000
+      internalID: -5283950968068813143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_36
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d882e000be27700800000000000000
+      internalID: 536749691080576289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_37
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 5
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb8f075805c51540800000000000000
+      internalID: 4978101602738998199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_38
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 6
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80831d5251fea3c30800000000000000
+      internalID: 4340044065032714248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_39
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 5
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648e13239d9117320800000000000000
+      internalID: 2553850884336511046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bimario_40
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 5
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60dc1627dc799130800000000000000
+      internalID: 3574025042794434666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bimario_0: -9160904334469707151
+      bimario_1: 7608999535383602089
+      bimario_10: -923436599476707463
+      bimario_11: 2577848241238590385
+      bimario_12: -1839824784508762300
+      bimario_13: 7215339376016521293
+      bimario_14: 704374636020403078
+      bimario_15: -1378144349289793351
+      bimario_16: 6904322092871389141
+      bimario_17: 8920876071281371826
+      bimario_18: -6393013224133000222
+      bimario_19: 4536994953620414235
+      bimario_2: -6386861799792001063
+      bimario_20: -6544469594584910234
+      bimario_21: -2931249163612665998
+      bimario_22: -6778139848215431695
+      bimario_23: -4704393948089496188
+      bimario_24: -1240421985855323642
+      bimario_25: -9093031647386894707
+      bimario_26: 6730956119996181534
+      bimario_27: -3629191674317726105
+      bimario_28: -5210090412025425611
+      bimario_29: 1352334227608073033
+      bimario_3: -3046481683501897282
+      bimario_30: -6777848385780730521
+      bimario_31: -737022497635949007
+      bimario_32: 7721764435281732607
+      bimario_33: 4813101297407294996
+      bimario_34: 3126764711814912958
+      bimario_35: -5283950968068813143
+      bimario_36: 536749691080576289
+      bimario_37: 4978101602738998199
+      bimario_38: 4340044065032714248
+      bimario_39: 2553850884336511046
+      bimario_4: 1790113252995266605
+      bimario_40: 3574025042794434666
+      bimario_5: -9152980890522829753
+      bimario_6: -8903052178331204782
+      bimario_7: -4357961786777960951
+      bimario_8: 6792343803687360255
+      bimario_9: -1436728174108880825
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
