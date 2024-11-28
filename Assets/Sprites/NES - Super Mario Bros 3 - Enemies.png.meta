@@ -1,0 +1,5139 @@
+fileFormatVersion: 2
+guid: 5ff09f50fa2952847af1b13282d5cac5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6362817563459295690
+    second: NES - Super Mario Bros 3 - Enemies_0
+  - first:
+      213: 5138851702484277503
+    second: NES - Super Mario Bros 3 - Enemies_1
+  - first:
+      213: 5515139405377066769
+    second: NES - Super Mario Bros 3 - Enemies_2
+  - first:
+      213: -7896873811400443949
+    second: NES - Super Mario Bros 3 - Enemies_3
+  - first:
+      213: 1868214920391130278
+    second: NES - Super Mario Bros 3 - Enemies_4
+  - first:
+      213: -4325761350354150290
+    second: NES - Super Mario Bros 3 - Enemies_5
+  - first:
+      213: -5491144825147127381
+    second: NES - Super Mario Bros 3 - Enemies_6
+  - first:
+      213: 3704149041107323982
+    second: NES - Super Mario Bros 3 - Enemies_7
+  - first:
+      213: -8029546466774568558
+    second: NES - Super Mario Bros 3 - Enemies_8
+  - first:
+      213: 2882536578787384790
+    second: NES - Super Mario Bros 3 - Enemies_9
+  - first:
+      213: -390475217912983785
+    second: NES - Super Mario Bros 3 - Enemies_10
+  - first:
+      213: -6445734909563642032
+    second: NES - Super Mario Bros 3 - Enemies_11
+  - first:
+      213: -506770879058619751
+    second: NES - Super Mario Bros 3 - Enemies_12
+  - first:
+      213: 6795855200276923792
+    second: NES - Super Mario Bros 3 - Enemies_13
+  - first:
+      213: -5265334166428038715
+    second: NES - Super Mario Bros 3 - Enemies_14
+  - first:
+      213: -3108030533947970969
+    second: NES - Super Mario Bros 3 - Enemies_15
+  - first:
+      213: -2702505065035332837
+    second: NES - Super Mario Bros 3 - Enemies_16
+  - first:
+      213: -7342371444629803271
+    second: NES - Super Mario Bros 3 - Enemies_17
+  - first:
+      213: -7175831023671040026
+    second: NES - Super Mario Bros 3 - Enemies_18
+  - first:
+      213: 1080102082095023246
+    second: NES - Super Mario Bros 3 - Enemies_19
+  - first:
+      213: 2191137629870266539
+    second: NES - Super Mario Bros 3 - Enemies_20
+  - first:
+      213: -5397750667105529844
+    second: NES - Super Mario Bros 3 - Enemies_21
+  - first:
+      213: 211420732998571749
+    second: NES - Super Mario Bros 3 - Enemies_22
+  - first:
+      213: -8512834579726984330
+    second: NES - Super Mario Bros 3 - Enemies_23
+  - first:
+      213: -788790741570250980
+    second: NES - Super Mario Bros 3 - Enemies_24
+  - first:
+      213: -7672149697361608754
+    second: NES - Super Mario Bros 3 - Enemies_25
+  - first:
+      213: 6395921287359631694
+    second: NES - Super Mario Bros 3 - Enemies_26
+  - first:
+      213: -4331582037955011495
+    second: NES - Super Mario Bros 3 - Enemies_27
+  - first:
+      213: 2537056373379686611
+    second: NES - Super Mario Bros 3 - Enemies_28
+  - first:
+      213: 9203935739815711422
+    second: NES - Super Mario Bros 3 - Enemies_29
+  - first:
+      213: 6728698584163912922
+    second: NES - Super Mario Bros 3 - Enemies_30
+  - first:
+      213: -7160717350683163281
+    second: NES - Super Mario Bros 3 - Enemies_31
+  - first:
+      213: 2889017635135976278
+    second: NES - Super Mario Bros 3 - Enemies_32
+  - first:
+      213: -8814068394590566199
+    second: NES - Super Mario Bros 3 - Enemies_33
+  - first:
+      213: -8053196190836003353
+    second: NES - Super Mario Bros 3 - Enemies_34
+  - first:
+      213: -4379006176554196837
+    second: NES - Super Mario Bros 3 - Enemies_35
+  - first:
+      213: -4997420219498536667
+    second: NES - Super Mario Bros 3 - Enemies_36
+  - first:
+      213: -8600009446984625821
+    second: NES - Super Mario Bros 3 - Enemies_37
+  - first:
+      213: 5600820215578600706
+    second: NES - Super Mario Bros 3 - Enemies_38
+  - first:
+      213: -2172540796040131482
+    second: NES - Super Mario Bros 3 - Enemies_39
+  - first:
+      213: 4591210249475578067
+    second: NES - Super Mario Bros 3 - Enemies_40
+  - first:
+      213: -4421403865848429361
+    second: NES - Super Mario Bros 3 - Enemies_41
+  - first:
+      213: 5888869862064353452
+    second: NES - Super Mario Bros 3 - Enemies_42
+  - first:
+      213: 5607417449131048075
+    second: NES - Super Mario Bros 3 - Enemies_43
+  - first:
+      213: -3415662874718881816
+    second: NES - Super Mario Bros 3 - Enemies_44
+  - first:
+      213: -4781149675593178156
+    second: NES - Super Mario Bros 3 - Enemies_45
+  - first:
+      213: 2927839928274842812
+    second: NES - Super Mario Bros 3 - Enemies_46
+  - first:
+      213: 6359586215409175925
+    second: NES - Super Mario Bros 3 - Enemies_47
+  - first:
+      213: 4709172740852598941
+    second: NES - Super Mario Bros 3 - Enemies_48
+  - first:
+      213: -404681070459582620
+    second: NES - Super Mario Bros 3 - Enemies_49
+  - first:
+      213: 2177420690313331747
+    second: NES - Super Mario Bros 3 - Enemies_50
+  - first:
+      213: -8178312031755586667
+    second: NES - Super Mario Bros 3 - Enemies_51
+  - first:
+      213: 2290031630263696328
+    second: NES - Super Mario Bros 3 - Enemies_52
+  - first:
+      213: -4814484999821957924
+    second: NES - Super Mario Bros 3 - Enemies_53
+  - first:
+      213: 5602187851093388044
+    second: NES - Super Mario Bros 3 - Enemies_54
+  - first:
+      213: -5303490214884385539
+    second: NES - Super Mario Bros 3 - Enemies_55
+  - first:
+      213: -5593588232988031162
+    second: NES - Super Mario Bros 3 - Enemies_56
+  - first:
+      213: -987260627333616781
+    second: NES - Super Mario Bros 3 - Enemies_57
+  - first:
+      213: 4202611903149409272
+    second: NES - Super Mario Bros 3 - Enemies_58
+  - first:
+      213: -3415421472045647416
+    second: NES - Super Mario Bros 3 - Enemies_59
+  - first:
+      213: 4814152642692907980
+    second: NES - Super Mario Bros 3 - Enemies_60
+  - first:
+      213: -682875345263438742
+    second: NES - Super Mario Bros 3 - Enemies_61
+  - first:
+      213: -3059421673055576900
+    second: NES - Super Mario Bros 3 - Enemies_62
+  - first:
+      213: 7327868172660959253
+    second: NES - Super Mario Bros 3 - Enemies_63
+  - first:
+      213: 1422430344314773397
+    second: NES - Super Mario Bros 3 - Enemies_64
+  - first:
+      213: -7049707885345403343
+    second: NES - Super Mario Bros 3 - Enemies_65
+  - first:
+      213: 4630423130709094526
+    second: NES - Super Mario Bros 3 - Enemies_66
+  - first:
+      213: 8271864156703516493
+    second: NES - Super Mario Bros 3 - Enemies_67
+  - first:
+      213: -6746669254889232506
+    second: NES - Super Mario Bros 3 - Enemies_68
+  - first:
+      213: 7754828839527645010
+    second: NES - Super Mario Bros 3 - Enemies_69
+  - first:
+      213: 743548495936470460
+    second: NES - Super Mario Bros 3 - Enemies_70
+  - first:
+      213: -5014834560191294934
+    second: NES - Super Mario Bros 3 - Enemies_71
+  - first:
+      213: -1567452580420657845
+    second: NES - Super Mario Bros 3 - Enemies_72
+  - first:
+      213: -6199001347158763994
+    second: NES - Super Mario Bros 3 - Enemies_73
+  - first:
+      213: -8045623912993063835
+    second: NES - Super Mario Bros 3 - Enemies_74
+  - first:
+      213: 8790868437352925138
+    second: NES - Super Mario Bros 3 - Enemies_75
+  - first:
+      213: 1566464551689874348
+    second: NES - Super Mario Bros 3 - Enemies_76
+  - first:
+      213: -5525440433818258397
+    second: NES - Super Mario Bros 3 - Enemies_77
+  - first:
+      213: 2310458436046833986
+    second: NES - Super Mario Bros 3 - Enemies_78
+  - first:
+      213: -5802303100332426614
+    second: NES - Super Mario Bros 3 - Enemies_79
+  - first:
+      213: -6212562917780096959
+    second: NES - Super Mario Bros 3 - Enemies_80
+  - first:
+      213: 6826374180167015940
+    second: NES - Super Mario Bros 3 - Enemies_81
+  - first:
+      213: -8616919016334086694
+    second: NES - Super Mario Bros 3 - Enemies_82
+  - first:
+      213: 1575358085139934680
+    second: NES - Super Mario Bros 3 - Enemies_83
+  - first:
+      213: -3943489572912605399
+    second: NES - Super Mario Bros 3 - Enemies_84
+  - first:
+      213: -7518698062691972307
+    second: NES - Super Mario Bros 3 - Enemies_85
+  - first:
+      213: -7761457012801003719
+    second: NES - Super Mario Bros 3 - Enemies_86
+  - first:
+      213: 8104595919780450275
+    second: NES - Super Mario Bros 3 - Enemies_87
+  - first:
+      213: 3239777094997783877
+    second: NES - Super Mario Bros 3 - Enemies_88
+  - first:
+      213: 4663304750611219932
+    second: NES - Super Mario Bros 3 - Enemies_89
+  - first:
+      213: 1568053575542110868
+    second: NES - Super Mario Bros 3 - Enemies_90
+  - first:
+      213: 9193500005655093691
+    second: NES - Super Mario Bros 3 - Enemies_91
+  - first:
+      213: 4763756896873220364
+    second: NES - Super Mario Bros 3 - Enemies_92
+  - first:
+      213: 175867626096429457
+    second: NES - Super Mario Bros 3 - Enemies_93
+  - first:
+      213: -4646043525074734963
+    second: NES - Super Mario Bros 3 - Enemies_94
+  - first:
+      213: 1521848926042074365
+    second: NES - Super Mario Bros 3 - Enemies_95
+  - first:
+      213: -7039557848314950761
+    second: NES - Super Mario Bros 3 - Enemies_96
+  - first:
+      213: -8146394324759643227
+    second: NES - Super Mario Bros 3 - Enemies_97
+  - first:
+      213: -4137031178935735483
+    second: NES - Super Mario Bros 3 - Enemies_98
+  - first:
+      213: -3625301625676916768
+    second: NES - Super Mario Bros 3 - Enemies_99
+  - first:
+      213: 6785539537554154045
+    second: NES - Super Mario Bros 3 - Enemies_100
+  - first:
+      213: 1046050366080628010
+    second: NES - Super Mario Bros 3 - Enemies_101
+  - first:
+      213: 1962402328803646524
+    second: NES - Super Mario Bros 3 - Enemies_102
+  - first:
+      213: -6577714852282937655
+    second: NES - Super Mario Bros 3 - Enemies_103
+  - first:
+      213: 1050567530967019917
+    second: NES - Super Mario Bros 3 - Enemies_104
+  - first:
+      213: 3924927256747502886
+    second: NES - Super Mario Bros 3 - Enemies_105
+  - first:
+      213: -7652837590478309084
+    second: NES - Super Mario Bros 3 - Enemies_106
+  - first:
+      213: 5139962869540500282
+    second: NES - Super Mario Bros 3 - Enemies_107
+  - first:
+      213: 1496073809690814694
+    second: NES - Super Mario Bros 3 - Enemies_108
+  - first:
+      213: -6017811542697460625
+    second: NES - Super Mario Bros 3 - Enemies_109
+  - first:
+      213: 5117928181254451407
+    second: NES - Super Mario Bros 3 - Enemies_110
+  - first:
+      213: 7189177986779596889
+    second: NES - Super Mario Bros 3 - Enemies_111
+  - first:
+      213: 8815655100128844523
+    second: NES - Super Mario Bros 3 - Enemies_112
+  - first:
+      213: 4851160062977699419
+    second: NES - Super Mario Bros 3 - Enemies_113
+  - first:
+      213: -5381898073194819231
+    second: NES - Super Mario Bros 3 - Enemies_114
+  - first:
+      213: -2553263130759712113
+    second: NES - Super Mario Bros 3 - Enemies_115
+  - first:
+      213: -5235709730248941368
+    second: NES - Super Mario Bros 3 - Enemies_116
+  - first:
+      213: -5930780127462939880
+    second: NES - Super Mario Bros 3 - Enemies_117
+  - first:
+      213: 5928655290428527539
+    second: NES - Super Mario Bros 3 - Enemies_118
+  - first:
+      213: 8966906388361930486
+    second: NES - Super Mario Bros 3 - Enemies_119
+  - first:
+      213: -2734341862520429584
+    second: NES - Super Mario Bros 3 - Enemies_120
+  - first:
+      213: 9199535787411769185
+    second: NES - Super Mario Bros 3 - Enemies_121
+  - first:
+      213: -7663132481504373548
+    second: NES - Super Mario Bros 3 - Enemies_122
+  - first:
+      213: -8509803842245563299
+    second: NES - Super Mario Bros 3 - Enemies_123
+  - first:
+      213: 1812478275896740529
+    second: NES - Super Mario Bros 3 - Enemies_124
+  - first:
+      213: 2848529033918674715
+    second: NES - Super Mario Bros 3 - Enemies_125
+  - first:
+      213: -582692695221261743
+    second: NES - Super Mario Bros 3 - Enemies_126
+  - first:
+      213: -36528382556556850
+    second: NES - Super Mario Bros 3 - Enemies_127
+  - first:
+      213: -4290007138389287097
+    second: NES - Super Mario Bros 3 - Enemies_128
+  - first:
+      213: 4397454690193689619
+    second: NES - Super Mario Bros 3 - Enemies_129
+  - first:
+      213: 7520110483195790992
+    second: NES - Super Mario Bros 3 - Enemies_130
+  - first:
+      213: 331389623596613256
+    second: NES - Super Mario Bros 3 - Enemies_131
+  - first:
+      213: -3145633192227767451
+    second: NES - Super Mario Bros 3 - Enemies_132
+  - first:
+      213: 8298529382661758236
+    second: NES - Super Mario Bros 3 - Enemies_133
+  - first:
+      213: 159622999315575057
+    second: NES - Super Mario Bros 3 - Enemies_134
+  - first:
+      213: -1205253068868459958
+    second: NES - Super Mario Bros 3 - Enemies_135
+  - first:
+      213: 8943028294214058920
+    second: NES - Super Mario Bros 3 - Enemies_136
+  - first:
+      213: 392547845014542270
+    second: NES - Super Mario Bros 3 - Enemies_137
+  - first:
+      213: 1223787027170597009
+    second: NES - Super Mario Bros 3 - Enemies_138
+  - first:
+      213: 5272744544766752169
+    second: NES - Super Mario Bros 3 - Enemies_139
+  - first:
+      213: -4169367329451359447
+    second: NES - Super Mario Bros 3 - Enemies_140
+  - first:
+      213: 5139563029725493705
+    second: NES - Super Mario Bros 3 - Enemies_141
+  - first:
+      213: 2349795838904119295
+    second: NES - Super Mario Bros 3 - Enemies_142
+  - first:
+      213: -1025731248937428904
+    second: NES - Super Mario Bros 3 - Enemies_143
+  - first:
+      213: -1943628537447801005
+    second: NES - Super Mario Bros 3 - Enemies_144
+  - first:
+      213: -2006685755631504253
+    second: NES - Super Mario Bros 3 - Enemies_145
+  - first:
+      213: 8226637830386967588
+    second: NES - Super Mario Bros 3 - Enemies_146
+  - first:
+      213: 6101230509085558321
+    second: NES - Super Mario Bros 3 - Enemies_147
+  - first:
+      213: 3229430398261447024
+    second: NES - Super Mario Bros 3 - Enemies_148
+  - first:
+      213: 3617705624691227632
+    second: NES - Super Mario Bros 3 - Enemies_149
+  - first:
+      213: -6217797256685467840
+    second: NES - Super Mario Bros 3 - Enemies_150
+  - first:
+      213: -1776698491189985314
+    second: NES - Super Mario Bros 3 - Enemies_151
+  - first:
+      213: -1517717672684790761
+    second: NES - Super Mario Bros 3 - Enemies_152
+  - first:
+      213: -3121737291203506109
+    second: NES - Super Mario Bros 3 - Enemies_153
+  - first:
+      213: 5372141928471949522
+    second: NES - Super Mario Bros 3 - Enemies_154
+  - first:
+      213: -4966724341676200078
+    second: NES - Super Mario Bros 3 - Enemies_155
+  - first:
+      213: 4571113618444053661
+    second: NES - Super Mario Bros 3 - Enemies_156
+  - first:
+      213: 7084872443461693292
+    second: NES - Super Mario Bros 3 - Enemies_157
+  - first:
+      213: 6356638330115845399
+    second: NES - Super Mario Bros 3 - Enemies_158
+  - first:
+      213: 3708205188015792051
+    second: NES - Super Mario Bros 3 - Enemies_159
+  - first:
+      213: -1304182306082708926
+    second: NES - Super Mario Bros 3 - Enemies_160
+  - first:
+      213: -3121795542918589897
+    second: NES - Super Mario Bros 3 - Enemies_161
+  - first:
+      213: 2376017586734959860
+    second: NES - Super Mario Bros 3 - Enemies_162
+  - first:
+      213: 8578104745156208600
+    second: NES - Super Mario Bros 3 - Enemies_163
+  - first:
+      213: -3557806307228386552
+    second: NES - Super Mario Bros 3 - Enemies_164
+  - first:
+      213: -1074178068277208162
+    second: NES - Super Mario Bros 3 - Enemies_165
+  - first:
+      213: 6333704094020880166
+    second: NES - Super Mario Bros 3 - Enemies_166
+  - first:
+      213: 2433849492755183103
+    second: NES - Super Mario Bros 3 - Enemies_167
+  - first:
+      213: 8038647282809261929
+    second: NES - Super Mario Bros 3 - Enemies_168
+  - first:
+      213: 1907504106302640577
+    second: NES - Super Mario Bros 3 - Enemies_169
+  - first:
+      213: -7812658065781819289
+    second: NES - Super Mario Bros 3 - Enemies_170
+  - first:
+      213: 9359648586783653
+    second: NES - Super Mario Bros 3 - Enemies_171
+  - first:
+      213: 8987673098635937325
+    second: NES - Super Mario Bros 3 - Enemies_172
+  - first:
+      213: -1390508791488188414
+    second: NES - Super Mario Bros 3 - Enemies_173
+  - first:
+      213: -4052700506539091463
+    second: NES - Super Mario Bros 3 - Enemies_174
+  - first:
+      213: -5756834067558657565
+    second: NES - Super Mario Bros 3 - Enemies_175
+  - first:
+      213: 6851987337391922824
+    second: NES - Super Mario Bros 3 - Enemies_176
+  - first:
+      213: 638771993099027308
+    second: NES - Super Mario Bros 3 - Enemies_177
+  - first:
+      213: -3981782402656849915
+    second: NES - Super Mario Bros 3 - Enemies_178
+  - first:
+      213: 3650949249471466614
+    second: NES - Super Mario Bros 3 - Enemies_179
+  - first:
+      213: 8252596527654441111
+    second: NES - Super Mario Bros 3 - Enemies_180
+  - first:
+      213: 1528221721906823457
+    second: NES - Super Mario Bros 3 - Enemies_181
+  - first:
+      213: 73210222246493037
+    second: NES - Super Mario Bros 3 - Enemies_182
+  - first:
+      213: -2177970137834874528
+    second: NES - Super Mario Bros 3 - Enemies_183
+  - first:
+      213: -7251524713909150057
+    second: NES - Super Mario Bros 3 - Enemies_184
+  - first:
+      213: 1540315065064831314
+    second: NES - Super Mario Bros 3 - Enemies_185
+  - first:
+      213: 2176638802500984150
+    second: NES - Super Mario Bros 3 - Enemies_186
+  - first:
+      213: -2501189927298688555
+    second: NES - Super Mario Bros 3 - Enemies_187
+  - first:
+      213: 2504982994021949887
+    second: NES - Super Mario Bros 3 - Enemies_188
+  - first:
+      213: 3662130480795892191
+    second: NES - Super Mario Bros 3 - Enemies_189
+  - first:
+      213: 8602205506989995765
+    second: NES - Super Mario Bros 3 - Enemies_190
+  - first:
+      213: 7113809946097128950
+    second: NES - Super Mario Bros 3 - Enemies_191
+  - first:
+      213: 4846897066542041698
+    second: NES - Super Mario Bros 3 - Enemies_192
+  - first:
+      213: 1940726847817525722
+    second: NES - Super Mario Bros 3 - Enemies_193
+  - first:
+      213: 2925041889394247216
+    second: NES - Super Mario Bros 3 - Enemies_194
+  - first:
+      213: 1310888528608225235
+    second: NES - Super Mario Bros 3 - Enemies_195
+  - first:
+      213: 8323911031060748423
+    second: NES - Super Mario Bros 3 - Enemies_196
+  - first:
+      213: -8168248602239191867
+    second: NES - Super Mario Bros 3 - Enemies_197
+  - first:
+      213: -4947361544816973888
+    second: NES - Super Mario Bros 3 - Enemies_198
+  - first:
+      213: 5055891825770670810
+    second: NES - Super Mario Bros 3 - Enemies_199
+  - first:
+      213: 8187772632706710634
+    second: NES - Super Mario Bros 3 - Enemies_200
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 869
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636646f332bb2b7a0800000000000000
+      internalID: -6362817563459295690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 869
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff89cf7856ed05740800000000000000
+      internalID: 5138851702484277503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 869
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11752489116b98c40800000000000000
+      internalID: 5515139405377066769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 869
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d73463ab1ba86290800000000000000
+      internalID: -7896873811400443949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 869
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac7ff5629b3de910800000000000000
+      internalID: 1868214920391130278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 869
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cd60188fec7f3c0800000000000000
+      internalID: -4325761350354150290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 869
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba981e6ffd88bc3b0800000000000000
+      internalID: -5491144825147127381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 869
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c4e4e6de7c76330800000000000000
+      internalID: 3704149041107323982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 869
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291b864e702519090800000000000000
+      internalID: -8029546466774568558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 869
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd11befeb3d00820800000000000000
+      internalID: 2882536578787384790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 869
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f04beabd0c49af0800000000000000
+      internalID: -390475217912983785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 869
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fdf1f20462c86a0800000000000000
+      internalID: -6445734909563642032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 869
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992d23b029697f8f0800000000000000
+      internalID: -506770879058619751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 869
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0954f757c4abf4e50800000000000000
+      internalID: 6795855200276923792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 868
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9445af876cde6b0800000000000000
+      internalID: -5265334166428038715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 868
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76aa6f842be0ed4d0800000000000000
+      internalID: -3108030533947970969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 868
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1300ea36f5ce7ad0800000000000000
+      internalID: -2702505065035332837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 841
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe6ed99218aa1a90800000000000000
+      internalID: -7342371444629803271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 841
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e72cd104b35a6c90800000000000000
+      internalID: -7175831023671040026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 841
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e840f6cfe1b4dfe00800000000000000
+      internalID: 1080102082095023246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 841
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba89862b01c786e10800000000000000
+      internalID: 2191137629870266539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 841
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c001c05ed565715b0800000000000000
+      internalID: -5397750667105529844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 841
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e65888590e1fe200800000000000000
+      internalID: 211420732998571749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 781
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b16bb7d065cd980800000000000000
+      internalID: -8512834579726984330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 781
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17969eeff6ad05f0800000000000000
+      internalID: -788790741570250980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 836
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecff321cf7c078590800000000000000
+      internalID: -7672149697361608754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 781
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e411e681680e2c850800000000000000
+      internalID: 6395921287359631694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 781
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c9a30161123e3c0800000000000000
+      internalID: -4331582037955011495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 780
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0ef66645f653320800000000000000
+      internalID: 2537056373379686611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 781
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2dc337ac2fabf70800000000000000
+      internalID: 9203935739815711422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 781
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc83cd46b3216d50800000000000000
+      internalID: 6728698584163912922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 781
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65cd87328500ac90800000000000000
+      internalID: -7160717350683163281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 780
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6537e148b3ad71820800000000000000
+      internalID: 2889017635135976278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 780
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c88e6a7e732ea580800000000000000
+      internalID: -8814068394590566199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 780
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ede0ba6bbc4d3090800000000000000
+      internalID: -8053196190836003353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 780
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90ee395515aa33c0800000000000000
+      internalID: -4379006176554196837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 743
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5216f6fa9c895aab0800000000000000
+      internalID: -4997420219498536667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 743
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3615a7709f0a6a880800000000000000
+      internalID: -8600009446984625821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 744
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205a368cf4c1abd40800000000000000
+      internalID: 5600820215578600706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 744
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ccbf718a599d1e0800000000000000
+      internalID: -2172540796040131482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 743
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8df19856147bf30800000000000000
+      internalID: 4591210249475578067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 743
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4c09f0c9404a2c0800000000000000
+      internalID: -4421403865848429361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 743
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca079d060f779b150800000000000000
+      internalID: 5888869862064353452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 743
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c78cae57c81dd40800000000000000
+      internalID: 5607417449131048075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 743
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e734ef56b02990d0800000000000000
+      internalID: -3415662874718881816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 743
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d36b40a3b1f5adb0800000000000000
+      internalID: -4781149675593178156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 743
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4f60407e6c1a820800000000000000
+      internalID: 2927839928274842812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 743
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d4fe7e7f9c14850800000000000000
+      internalID: 6359586215409175925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 697
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98c87458a75a5140800000000000000
+      internalID: 4709172740852598941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 697
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4678ee3e5b8426af0800000000000000
+      internalID: -404681070459582620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 697
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32446b4d490c73e10800000000000000
+      internalID: 2177420690313331747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 697
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593b7e4a98cc08e80800000000000000
+      internalID: -8178312031755586667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 697
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbb64672a3d7cf10800000000000000
+      internalID: 2290031630263696328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 697
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd46a21a6638f2db0800000000000000
+      internalID: -4814484999821957924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 697
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b2e6d3b28febd40800000000000000
+      internalID: 5602187851093388044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 697
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc5e08afb73666b0800000000000000
+      internalID: -5303490214884385539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 697
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64781f063259f52b0800000000000000
+      internalID: -5593588232988031162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 697
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bec0fa0bb8c42f0800000000000000
+      internalID: -987260627333616781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 674
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f38c00724da25a30800000000000000
+      internalID: 4202611903149409272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 675
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c93a70544cf990d0800000000000000
+      internalID: -3415421472045647416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 674
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc30832725e4fc240800000000000000
+      internalID: 4814152642692907980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 676
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6453b3dd70f586f0800000000000000
+      internalID: -682875345263438742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 675
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc1467a230ca85d0800000000000000
+      internalID: -3059421673055576900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 675
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518e8504741d1b560800000000000000
+      internalID: 7327868172660959253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 677
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f5e9e9cdc7db310800000000000000
+      internalID: 1422430344314773397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 677
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e87bb77086a2e90800000000000000
+      internalID: -7049707885345403343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 677
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70faa9ed41924040800000000000000
+      internalID: 4630423130709094526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 677
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d476992df909bc270800000000000000
+      internalID: 8271864156703516493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 678
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687274dde040f52a0800000000000000
+      internalID: -6746669254889232506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 646
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ffff12ebfae9b60800000000000000
+      internalID: 7754828839527645010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 646
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdb195ea6d915a00800000000000000
+      internalID: 743548495936470460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 646
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a221278898ab76ab0800000000000000
+      internalID: -5014834560191294934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 614
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dd1cdce2a4f3ae0800000000000000
+      internalID: -1567452580420657845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 614
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6261f645e19b8f9a0800000000000000
+      internalID: -6199001347158763994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 614
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cf8adbda3385090800000000000000
+      internalID: -8045623912993063835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 615
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d74d9b84407ff970800000000000000
+      internalID: 8790868437352925138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 577
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab67b4d5333db510800000000000000
+      internalID: 1566464551689874348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 577
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324bea25331b153b0800000000000000
+      internalID: -5525440433818258397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 577
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24940ecc4b5601020800000000000000
+      internalID: 2310458436046833986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 577
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ab98972141a7fa0800000000000000
+      internalID: -5802303100332426614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 577
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148f3fc11fa88c9a0800000000000000
+      internalID: -6212562917780096959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ed0c036272cbe50800000000000000
+      internalID: 6826374180167015940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 577
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add291d1fcd8a6880800000000000000
+      internalID: -8616919016334086694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 595
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd2ec2f4dbccd510800000000000000
+      internalID: 1575358085139934680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 577
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927561f7029e549c0800000000000000
+      internalID: -3943489572912605399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 594
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bc3df92f738a790800000000000000
+      internalID: -7518698062691972307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 577
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f188408f3c94490800000000000000
+      internalID: -7761457012801003719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 516
+        width: 18
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef089e8c0f497070800000000000000
+      internalID: 8104595919780450275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 516
+        width: 18
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5453ac25a1006fc20800000000000000
+      internalID: 3239777094997783877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 556
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5c293a6f267b040800000000000000
+      internalID: 4663304750611219932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 556
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49af7f64b68d2c510800000000000000
+      internalID: 1568053575542110868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 556
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1af9fbb8fd59f70800000000000000
+      internalID: 9193500005655093691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 555
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09027288a34c1240800000000000000
+      internalID: 4763756896873220364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 556
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19908f49caec07200800000000000000
+      internalID: 175867626096429457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 516
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80baec9700f58fb0800000000000000
+      internalID: -4646043525074734963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 516
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc2c8ef881be1510800000000000000
+      internalID: 1521848926042074365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 516
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bcf532f677e4e90800000000000000
+      internalID: -7039557848314950761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 516
+        width: 18
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab7178e58132fe80800000000000000
+      internalID: -8146394324759643227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 535
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54be1dacf005696c0800000000000000
+      internalID: -4137031178935735483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e791ed016750bdc0800000000000000
+      internalID: -3625301625676916768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32a84112441b2e50800000000000000
+      internalID: 6785539537554154045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 516
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2537670441548e00800000000000000
+      internalID: 1046050366080628010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 516
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c9db2558adb3b10800000000000000
+      internalID: 1962402328803646524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 517
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce4ddb213347b4a0800000000000000
+      internalID: -6577714852282937655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 516
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8139df6a9d549e00800000000000000
+      internalID: 1050567530967019917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 494
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62deeab7b84287630800000000000000
+      internalID: 3924927256747502886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 494
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429b8c702c8abc590800000000000000
+      internalID: -7652837590478309084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 494
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33b8a54ff0d45740800000000000000
+      internalID: 5139962869540500282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 494
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8e260143f13c410800000000000000
+      internalID: 1496073809690814694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 494
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cb54029407c7ca0800000000000000
+      internalID: -6017811542697460625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 457
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0f1ad9098860740800000000000000
+      internalID: 5117928181254451407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 401
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9584e010a4715c360800000000000000
+      internalID: 7189177986779596889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 435
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea5a813b9f775a70800000000000000
+      internalID: 8815655100128844523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 435
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ee85eef58c25340800000000000000
+      internalID: 4851160062977699419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 424
+        width: 88
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1611dd98738af45b0800000000000000
+      internalID: -5381898073194819231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 441
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8237f8d5bcf09cd0800000000000000
+      internalID: -2553263130759712113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 441
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0a4758db50757b0800000000000000
+      internalID: -5235709730248941368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 424
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81320ad85e2a1bda0800000000000000
+      internalID: -5930780127462939880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 404
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b39bb54390d64250800000000000000
+      internalID: 5928655290428527539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 401
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f66e7cf9d9d07c70800000000000000
+      internalID: 8966906388361930486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 424
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f36dfd209aad0ad0800000000000000
+      internalID: -2734341862520429584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 412
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1670c23be015baf70800000000000000
+      internalID: 9199535787411769185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 412
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d49c2deb9517a590800000000000000
+      internalID: -7663132481504373548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 410
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ce2ba0e7a17e980800000000000000
+      internalID: -8509803842245563299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 376
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba00f59367372910800000000000000
+      internalID: 1812478275896740529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 372
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17fb1f6012088720800000000000000
+      internalID: 2848529033918674715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 369
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a2f18b41cd9e7f0800000000000000
+      internalID: -582692695221261743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 377
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec13f7d21a93e7ff0800000000000000
+      internalID: -36528382556556850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 372
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f9a60bc35d674c0800000000000000
+      internalID: -4290007138389287097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 369
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cced4fdb5e60d30800000000000000
+      internalID: 4397454690193689619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 366
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096839624accc5860800000000000000
+      internalID: 7520110483195790992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 363
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ef9bc5b15599400800000000000000
+      internalID: 331389623596613256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 366
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bf59727477854d0800000000000000
+      internalID: -3145633192227767451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 363
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d12bb818c4a2370800000000000000
+      internalID: 8298529382661758236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 322
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111ff2ca548173200800000000000000
+      internalID: 159622999315575057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 347
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4265a538b4164fe0800000000000000
+      internalID: -1205253068868459958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 322
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a385e4f9d40c1c70800000000000000
+      internalID: 8943028294214058920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 347
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7df6b6f2c927500800000000000000
+      internalID: 392547845014542270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 322
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1981c3b31d3cbf010800000000000000
+      internalID: 1223787027170597009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 322
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5733e2a3d8c2940800000000000000
+      internalID: 5272744544766752169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 322
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923ceed018e6326c0800000000000000
+      internalID: -4169367329451359447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 308
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9b48f4855635740800000000000000
+      internalID: 5139563029725493705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 308
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff2290add62c9020800000000000000
+      internalID: 2349795838904119295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 309
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85811181dded3c1f0800000000000000
+      internalID: -1025731248937428904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 308
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f9c1a9428d605e0800000000000000
+      internalID: -1943628537447801005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 285
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3847fb7efe1d624e0800000000000000
+      internalID: -2006685755631504253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 285
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42461082583ea2270800000000000000
+      internalID: 8226637830386967588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 285
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13602d282dceba450800000000000000
+      internalID: 6101230509085558321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 285
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079c83346dd31dc20800000000000000
+      internalID: 3229430398261447024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 245
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb37a5291ca43230800000000000000
+      internalID: 3617705624691227632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 244
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0474ddd9652f5b9a0800000000000000
+      internalID: -6217797256685467840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 273
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edff5a7b226e757e0800000000000000
+      internalID: -1776698491189985314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 245
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c5a4261dbffeae0800000000000000
+      internalID: -1517717672684790761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 273
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34099bb297c5da4d0800000000000000
+      internalID: -3121737291203506109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_154
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 214
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d07d810f9ead8a40800000000000000
+      internalID: 5372141928471949522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_155
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 214
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27faa1da686a21bb0800000000000000
+      internalID: -4966724341676200078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_156
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 207
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cee4ffd9bdf6f30800000000000000
+      internalID: 4571113618444053661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_157
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 207
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fec7733f5825260800000000000000
+      internalID: 7084872443461693292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_158
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 207
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71def20e1e0573850800000000000000
+      internalID: 6356638330115845399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_159
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 207
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf11f9b8f0367330800000000000000
+      internalID: 3708205188015792051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_160
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 173
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242279b3a1d96ede0800000000000000
+      internalID: -1304182306082708926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_161
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 173
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73290f26e772da4d0800000000000000
+      internalID: -3121795542918589897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_162
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 173
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc0b6d086f49f020800000000000000
+      internalID: 2376017586734959860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_163
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 184
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7e02521dc8b0770800000000000000
+      internalID: 8578104745156208600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_164
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 184
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bf10e730220aec0800000000000000
+      internalID: -3557806307228386552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_165
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 184
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b52d6fcb0c711f0800000000000000
+      internalID: -1074178068277208162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_166
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6274d8ce056d5e750800000000000000
+      internalID: 6333704094020880166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_167
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5ff64f735c6c120800000000000000
+      internalID: 2433849492755183103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_168
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f4186fc130f8f60800000000000000
+      internalID: 8038647282809261929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_169
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c194c7d0e0d87a10800000000000000
+      internalID: 1907504106302640577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_170
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768fb75e1ecd39390800000000000000
+      internalID: -7812658065781819289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_171
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abdc310d80412000800000000000000
+      internalID: 9359648586783653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_172
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 130
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2687818011aabc70800000000000000
+      internalID: 8987673098635937325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_173
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 130
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200f9421f9be3bce0800000000000000
+      internalID: -1390508791488188414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_174
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 130
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f911b68c5ae1c7c0800000000000000
+      internalID: -4052700506539091463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_175
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 130
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e19c44aaed9b10b0800000000000000
+      internalID: -5756834067558657565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_176
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 130
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e58b21e26271f50800000000000000
+      internalID: 6851987337391922824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_177
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 108
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63c22d4ebf5dd800800000000000000
+      internalID: 638771993099027308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_178
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 108
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500bcbc400eddb8c0800000000000000
+      internalID: -3981782402656849915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_179
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 108
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cc9b3bff6caa230800000000000000
+      internalID: 3650949249471466614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_180
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 108
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790177951dc178270800000000000000
+      internalID: 8252596527654441111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_181
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 108
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121ca482f85553510800000000000000
+      internalID: 1528221721906823457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_182
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 108
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bfdea2f48140100800000000000000
+      internalID: 73210222246493037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_183
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 86
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06991f2f2bb46c1e0800000000000000
+      internalID: -2177970137834874528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_184
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 86
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e9a7361b86d5b90800000000000000
+      internalID: -7251524713909150057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_185
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 86
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2593f57046c406510800000000000000
+      internalID: 1540315065064831314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_186
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d17636579f43e10800000000000000
+      internalID: 2176638802500984150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_187
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 64
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d99393530df94dd0800000000000000
+      internalID: -2501189927298688555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_188
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1a217d2cc73c220800000000000000
+      internalID: 2504982994021949887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_189
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 64
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd938fcf44082d230800000000000000
+      internalID: 3662130480795892191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_190
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 64
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f63c09055c216770800000000000000
+      internalID: 8602205506989995765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_191
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 64
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f592c4947459b260800000000000000
+      internalID: 7113809946097128950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_192
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 64
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a0f1ab333a34340800000000000000
+      internalID: 4846897066542041698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_193
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 43
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad92a3229c8deea10800000000000000
+      internalID: 1940726847817525722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_194
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 43
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0364b72d916d79820800000000000000
+      internalID: 2925041889394247216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_195
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 43
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7e3dfdb26313210800000000000000
+      internalID: 1310888528608225235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_196
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 25
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788d4541bf8748370800000000000000
+      internalID: 8323911031060748423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_197
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 25
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4b37a6c2d84ae80800000000000000
+      internalID: -8168248602239191867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_198
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7a1c123e0775bb0800000000000000
+      internalID: -4947361544816973888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_199
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adaacd904d22a2640800000000000000
+      internalID: 5055891825770670810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Enemies_200
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cf52a24dfc0a170800000000000000
+      internalID: 8187772632706710634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Super Mario Bros 3 - Enemies_0: -6362817563459295690
+      NES - Super Mario Bros 3 - Enemies_1: 5138851702484277503
+      NES - Super Mario Bros 3 - Enemies_10: -390475217912983785
+      NES - Super Mario Bros 3 - Enemies_100: 6785539537554154045
+      NES - Super Mario Bros 3 - Enemies_101: 1046050366080628010
+      NES - Super Mario Bros 3 - Enemies_102: 1962402328803646524
+      NES - Super Mario Bros 3 - Enemies_103: -6577714852282937655
+      NES - Super Mario Bros 3 - Enemies_104: 1050567530967019917
+      NES - Super Mario Bros 3 - Enemies_105: 3924927256747502886
+      NES - Super Mario Bros 3 - Enemies_106: -7652837590478309084
+      NES - Super Mario Bros 3 - Enemies_107: 5139962869540500282
+      NES - Super Mario Bros 3 - Enemies_108: 1496073809690814694
+      NES - Super Mario Bros 3 - Enemies_109: -6017811542697460625
+      NES - Super Mario Bros 3 - Enemies_11: -6445734909563642032
+      NES - Super Mario Bros 3 - Enemies_110: 5117928181254451407
+      NES - Super Mario Bros 3 - Enemies_111: 7189177986779596889
+      NES - Super Mario Bros 3 - Enemies_112: 8815655100128844523
+      NES - Super Mario Bros 3 - Enemies_113: 4851160062977699419
+      NES - Super Mario Bros 3 - Enemies_114: -5381898073194819231
+      NES - Super Mario Bros 3 - Enemies_115: -2553263130759712113
+      NES - Super Mario Bros 3 - Enemies_116: -5235709730248941368
+      NES - Super Mario Bros 3 - Enemies_117: -5930780127462939880
+      NES - Super Mario Bros 3 - Enemies_118: 5928655290428527539
+      NES - Super Mario Bros 3 - Enemies_119: 8966906388361930486
+      NES - Super Mario Bros 3 - Enemies_12: -506770879058619751
+      NES - Super Mario Bros 3 - Enemies_120: -2734341862520429584
+      NES - Super Mario Bros 3 - Enemies_121: 9199535787411769185
+      NES - Super Mario Bros 3 - Enemies_122: -7663132481504373548
+      NES - Super Mario Bros 3 - Enemies_123: -8509803842245563299
+      NES - Super Mario Bros 3 - Enemies_124: 1812478275896740529
+      NES - Super Mario Bros 3 - Enemies_125: 2848529033918674715
+      NES - Super Mario Bros 3 - Enemies_126: -582692695221261743
+      NES - Super Mario Bros 3 - Enemies_127: -36528382556556850
+      NES - Super Mario Bros 3 - Enemies_128: -4290007138389287097
+      NES - Super Mario Bros 3 - Enemies_129: 4397454690193689619
+      NES - Super Mario Bros 3 - Enemies_13: 6795855200276923792
+      NES - Super Mario Bros 3 - Enemies_130: 7520110483195790992
+      NES - Super Mario Bros 3 - Enemies_131: 331389623596613256
+      NES - Super Mario Bros 3 - Enemies_132: -3145633192227767451
+      NES - Super Mario Bros 3 - Enemies_133: 8298529382661758236
+      NES - Super Mario Bros 3 - Enemies_134: 159622999315575057
+      NES - Super Mario Bros 3 - Enemies_135: -1205253068868459958
+      NES - Super Mario Bros 3 - Enemies_136: 8943028294214058920
+      NES - Super Mario Bros 3 - Enemies_137: 392547845014542270
+      NES - Super Mario Bros 3 - Enemies_138: 1223787027170597009
+      NES - Super Mario Bros 3 - Enemies_139: 5272744544766752169
+      NES - Super Mario Bros 3 - Enemies_14: -5265334166428038715
+      NES - Super Mario Bros 3 - Enemies_140: -4169367329451359447
+      NES - Super Mario Bros 3 - Enemies_141: 5139563029725493705
+      NES - Super Mario Bros 3 - Enemies_142: 2349795838904119295
+      NES - Super Mario Bros 3 - Enemies_143: -1025731248937428904
+      NES - Super Mario Bros 3 - Enemies_144: -1943628537447801005
+      NES - Super Mario Bros 3 - Enemies_145: -2006685755631504253
+      NES - Super Mario Bros 3 - Enemies_146: 8226637830386967588
+      NES - Super Mario Bros 3 - Enemies_147: 6101230509085558321
+      NES - Super Mario Bros 3 - Enemies_148: 3229430398261447024
+      NES - Super Mario Bros 3 - Enemies_149: 3617705624691227632
+      NES - Super Mario Bros 3 - Enemies_15: -3108030533947970969
+      NES - Super Mario Bros 3 - Enemies_150: -6217797256685467840
+      NES - Super Mario Bros 3 - Enemies_151: -1776698491189985314
+      NES - Super Mario Bros 3 - Enemies_152: -1517717672684790761
+      NES - Super Mario Bros 3 - Enemies_153: -3121737291203506109
+      NES - Super Mario Bros 3 - Enemies_154: 5372141928471949522
+      NES - Super Mario Bros 3 - Enemies_155: -4966724341676200078
+      NES - Super Mario Bros 3 - Enemies_156: 4571113618444053661
+      NES - Super Mario Bros 3 - Enemies_157: 7084872443461693292
+      NES - Super Mario Bros 3 - Enemies_158: 6356638330115845399
+      NES - Super Mario Bros 3 - Enemies_159: 3708205188015792051
+      NES - Super Mario Bros 3 - Enemies_16: -2702505065035332837
+      NES - Super Mario Bros 3 - Enemies_160: -1304182306082708926
+      NES - Super Mario Bros 3 - Enemies_161: -3121795542918589897
+      NES - Super Mario Bros 3 - Enemies_162: 2376017586734959860
+      NES - Super Mario Bros 3 - Enemies_163: 8578104745156208600
+      NES - Super Mario Bros 3 - Enemies_164: -3557806307228386552
+      NES - Super Mario Bros 3 - Enemies_165: -1074178068277208162
+      NES - Super Mario Bros 3 - Enemies_166: 6333704094020880166
+      NES - Super Mario Bros 3 - Enemies_167: 2433849492755183103
+      NES - Super Mario Bros 3 - Enemies_168: 8038647282809261929
+      NES - Super Mario Bros 3 - Enemies_169: 1907504106302640577
+      NES - Super Mario Bros 3 - Enemies_17: -7342371444629803271
+      NES - Super Mario Bros 3 - Enemies_170: -7812658065781819289
+      NES - Super Mario Bros 3 - Enemies_171: 9359648586783653
+      NES - Super Mario Bros 3 - Enemies_172: 8987673098635937325
+      NES - Super Mario Bros 3 - Enemies_173: -1390508791488188414
+      NES - Super Mario Bros 3 - Enemies_174: -4052700506539091463
+      NES - Super Mario Bros 3 - Enemies_175: -5756834067558657565
+      NES - Super Mario Bros 3 - Enemies_176: 6851987337391922824
+      NES - Super Mario Bros 3 - Enemies_177: 638771993099027308
+      NES - Super Mario Bros 3 - Enemies_178: -3981782402656849915
+      NES - Super Mario Bros 3 - Enemies_179: 3650949249471466614
+      NES - Super Mario Bros 3 - Enemies_18: -7175831023671040026
+      NES - Super Mario Bros 3 - Enemies_180: 8252596527654441111
+      NES - Super Mario Bros 3 - Enemies_181: 1528221721906823457
+      NES - Super Mario Bros 3 - Enemies_182: 73210222246493037
+      NES - Super Mario Bros 3 - Enemies_183: -2177970137834874528
+      NES - Super Mario Bros 3 - Enemies_184: -7251524713909150057
+      NES - Super Mario Bros 3 - Enemies_185: 1540315065064831314
+      NES - Super Mario Bros 3 - Enemies_186: 2176638802500984150
+      NES - Super Mario Bros 3 - Enemies_187: -2501189927298688555
+      NES - Super Mario Bros 3 - Enemies_188: 2504982994021949887
+      NES - Super Mario Bros 3 - Enemies_189: 3662130480795892191
+      NES - Super Mario Bros 3 - Enemies_19: 1080102082095023246
+      NES - Super Mario Bros 3 - Enemies_190: 8602205506989995765
+      NES - Super Mario Bros 3 - Enemies_191: 7113809946097128950
+      NES - Super Mario Bros 3 - Enemies_192: 4846897066542041698
+      NES - Super Mario Bros 3 - Enemies_193: 1940726847817525722
+      NES - Super Mario Bros 3 - Enemies_194: 2925041889394247216
+      NES - Super Mario Bros 3 - Enemies_195: 1310888528608225235
+      NES - Super Mario Bros 3 - Enemies_196: 8323911031060748423
+      NES - Super Mario Bros 3 - Enemies_197: -8168248602239191867
+      NES - Super Mario Bros 3 - Enemies_198: -4947361544816973888
+      NES - Super Mario Bros 3 - Enemies_199: 5055891825770670810
+      NES - Super Mario Bros 3 - Enemies_2: 5515139405377066769
+      NES - Super Mario Bros 3 - Enemies_20: 2191137629870266539
+      NES - Super Mario Bros 3 - Enemies_200: 8187772632706710634
+      NES - Super Mario Bros 3 - Enemies_21: -5397750667105529844
+      NES - Super Mario Bros 3 - Enemies_22: 211420732998571749
+      NES - Super Mario Bros 3 - Enemies_23: -8512834579726984330
+      NES - Super Mario Bros 3 - Enemies_24: -788790741570250980
+      NES - Super Mario Bros 3 - Enemies_25: -7672149697361608754
+      NES - Super Mario Bros 3 - Enemies_26: 6395921287359631694
+      NES - Super Mario Bros 3 - Enemies_27: -4331582037955011495
+      NES - Super Mario Bros 3 - Enemies_28: 2537056373379686611
+      NES - Super Mario Bros 3 - Enemies_29: 9203935739815711422
+      NES - Super Mario Bros 3 - Enemies_3: -7896873811400443949
+      NES - Super Mario Bros 3 - Enemies_30: 6728698584163912922
+      NES - Super Mario Bros 3 - Enemies_31: -7160717350683163281
+      NES - Super Mario Bros 3 - Enemies_32: 2889017635135976278
+      NES - Super Mario Bros 3 - Enemies_33: -8814068394590566199
+      NES - Super Mario Bros 3 - Enemies_34: -8053196190836003353
+      NES - Super Mario Bros 3 - Enemies_35: -4379006176554196837
+      NES - Super Mario Bros 3 - Enemies_36: -4997420219498536667
+      NES - Super Mario Bros 3 - Enemies_37: -8600009446984625821
+      NES - Super Mario Bros 3 - Enemies_38: 5600820215578600706
+      NES - Super Mario Bros 3 - Enemies_39: -2172540796040131482
+      NES - Super Mario Bros 3 - Enemies_4: 1868214920391130278
+      NES - Super Mario Bros 3 - Enemies_40: 4591210249475578067
+      NES - Super Mario Bros 3 - Enemies_41: -4421403865848429361
+      NES - Super Mario Bros 3 - Enemies_42: 5888869862064353452
+      NES - Super Mario Bros 3 - Enemies_43: 5607417449131048075
+      NES - Super Mario Bros 3 - Enemies_44: -3415662874718881816
+      NES - Super Mario Bros 3 - Enemies_45: -4781149675593178156
+      NES - Super Mario Bros 3 - Enemies_46: 2927839928274842812
+      NES - Super Mario Bros 3 - Enemies_47: 6359586215409175925
+      NES - Super Mario Bros 3 - Enemies_48: 4709172740852598941
+      NES - Super Mario Bros 3 - Enemies_49: -404681070459582620
+      NES - Super Mario Bros 3 - Enemies_5: -4325761350354150290
+      NES - Super Mario Bros 3 - Enemies_50: 2177420690313331747
+      NES - Super Mario Bros 3 - Enemies_51: -8178312031755586667
+      NES - Super Mario Bros 3 - Enemies_52: 2290031630263696328
+      NES - Super Mario Bros 3 - Enemies_53: -4814484999821957924
+      NES - Super Mario Bros 3 - Enemies_54: 5602187851093388044
+      NES - Super Mario Bros 3 - Enemies_55: -5303490214884385539
+      NES - Super Mario Bros 3 - Enemies_56: -5593588232988031162
+      NES - Super Mario Bros 3 - Enemies_57: -987260627333616781
+      NES - Super Mario Bros 3 - Enemies_58: 4202611903149409272
+      NES - Super Mario Bros 3 - Enemies_59: -3415421472045647416
+      NES - Super Mario Bros 3 - Enemies_6: -5491144825147127381
+      NES - Super Mario Bros 3 - Enemies_60: 4814152642692907980
+      NES - Super Mario Bros 3 - Enemies_61: -682875345263438742
+      NES - Super Mario Bros 3 - Enemies_62: -3059421673055576900
+      NES - Super Mario Bros 3 - Enemies_63: 7327868172660959253
+      NES - Super Mario Bros 3 - Enemies_64: 1422430344314773397
+      NES - Super Mario Bros 3 - Enemies_65: -7049707885345403343
+      NES - Super Mario Bros 3 - Enemies_66: 4630423130709094526
+      NES - Super Mario Bros 3 - Enemies_67: 8271864156703516493
+      NES - Super Mario Bros 3 - Enemies_68: -6746669254889232506
+      NES - Super Mario Bros 3 - Enemies_69: 7754828839527645010
+      NES - Super Mario Bros 3 - Enemies_7: 3704149041107323982
+      NES - Super Mario Bros 3 - Enemies_70: 743548495936470460
+      NES - Super Mario Bros 3 - Enemies_71: -5014834560191294934
+      NES - Super Mario Bros 3 - Enemies_72: -1567452580420657845
+      NES - Super Mario Bros 3 - Enemies_73: -6199001347158763994
+      NES - Super Mario Bros 3 - Enemies_74: -8045623912993063835
+      NES - Super Mario Bros 3 - Enemies_75: 8790868437352925138
+      NES - Super Mario Bros 3 - Enemies_76: 1566464551689874348
+      NES - Super Mario Bros 3 - Enemies_77: -5525440433818258397
+      NES - Super Mario Bros 3 - Enemies_78: 2310458436046833986
+      NES - Super Mario Bros 3 - Enemies_79: -5802303100332426614
+      NES - Super Mario Bros 3 - Enemies_8: -8029546466774568558
+      NES - Super Mario Bros 3 - Enemies_80: -6212562917780096959
+      NES - Super Mario Bros 3 - Enemies_81: 6826374180167015940
+      NES - Super Mario Bros 3 - Enemies_82: -8616919016334086694
+      NES - Super Mario Bros 3 - Enemies_83: 1575358085139934680
+      NES - Super Mario Bros 3 - Enemies_84: -3943489572912605399
+      NES - Super Mario Bros 3 - Enemies_85: -7518698062691972307
+      NES - Super Mario Bros 3 - Enemies_86: -7761457012801003719
+      NES - Super Mario Bros 3 - Enemies_87: 8104595919780450275
+      NES - Super Mario Bros 3 - Enemies_88: 3239777094997783877
+      NES - Super Mario Bros 3 - Enemies_89: 4663304750611219932
+      NES - Super Mario Bros 3 - Enemies_9: 2882536578787384790
+      NES - Super Mario Bros 3 - Enemies_90: 1568053575542110868
+      NES - Super Mario Bros 3 - Enemies_91: 9193500005655093691
+      NES - Super Mario Bros 3 - Enemies_92: 4763756896873220364
+      NES - Super Mario Bros 3 - Enemies_93: 175867626096429457
+      NES - Super Mario Bros 3 - Enemies_94: -4646043525074734963
+      NES - Super Mario Bros 3 - Enemies_95: 1521848926042074365
+      NES - Super Mario Bros 3 - Enemies_96: -7039557848314950761
+      NES - Super Mario Bros 3 - Enemies_97: -8146394324759643227
+      NES - Super Mario Bros 3 - Enemies_98: -4137031178935735483
+      NES - Super Mario Bros 3 - Enemies_99: -3625301625676916768
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
