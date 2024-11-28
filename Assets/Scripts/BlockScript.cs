@@ -23,16 +23,25 @@ public class BlockScript : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+
         if (trigger != null)
         {
-            body.enabled = false;
+            if (collision.CompareTag("Player"))
+            {
+                body.enabled = false;
+            }
+                
         }
     }
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (trigger != null)
         {
-            body.enabled = true;
+            if(collision.CompareTag("Player"))
+            {
+                body.enabled = true;
+            }
+            
         }
     }
 }

@@ -1712,7 +1712,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.3456688, y: 2.2809997, z: -9.93829}
+  m_LocalPosition: {x: 0, y: 2.2809997, z: -9.93829}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -7338,6 +7338,10 @@ PrefabInstance:
     - target: {fileID: 8389508789093680278, guid: 2b209d5ddfeca4644a43f2e6defe1e65, type: 3}
       propertyPath: m_Name
       value: Mario
+      objectReference: {fileID: 0}
+    - target: {fileID: 8389508789093680278, guid: 2b209d5ddfeca4644a43f2e6defe1e65, type: 3}
+      propertyPath: m_TagString
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 8407589073257287303, guid: 2b209d5ddfeca4644a43f2e6defe1e65, type: 3}
       propertyPath: m_LocalPosition.x
