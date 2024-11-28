@@ -1,0 +1,5539 @@
+fileFormatVersion: 2
+guid: 30ab54782f4fbdb4ca73990af7307fcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3826055028122041656
+    second: NES - Super Mario Bros 3 - Background_0
+  - first:
+      213: -871487501136015974
+    second: NES - Super Mario Bros 3 - Background_1
+  - first:
+      213: 4447282828978889443
+    second: NES - Super Mario Bros 3 - Background_2
+  - first:
+      213: 6902626011064889917
+    second: NES - Super Mario Bros 3 - Background_3
+  - first:
+      213: -7714245506858845372
+    second: NES - Super Mario Bros 3 - Background_4
+  - first:
+      213: -1965647466527282021
+    second: NES - Super Mario Bros 3 - Background_5
+  - first:
+      213: 7932540379046237560
+    second: NES - Super Mario Bros 3 - Background_6
+  - first:
+      213: 3143066704661952866
+    second: NES - Super Mario Bros 3 - Background_7
+  - first:
+      213: -1082078028697194145
+    second: NES - Super Mario Bros 3 - Background_8
+  - first:
+      213: -3455677318914192137
+    second: NES - Super Mario Bros 3 - Background_9
+  - first:
+      213: -6071841095286916982
+    second: NES - Super Mario Bros 3 - Background_10
+  - first:
+      213: 8799785381479651106
+    second: NES - Super Mario Bros 3 - Background_11
+  - first:
+      213: -3988994802198618533
+    second: NES - Super Mario Bros 3 - Background_12
+  - first:
+      213: -8543087670272859909
+    second: NES - Super Mario Bros 3 - Background_13
+  - first:
+      213: 4139210360174833754
+    second: NES - Super Mario Bros 3 - Background_14
+  - first:
+      213: -1771235696715438162
+    second: NES - Super Mario Bros 3 - Background_15
+  - first:
+      213: -8515315224423259655
+    second: NES - Super Mario Bros 3 - Background_16
+  - first:
+      213: 7383729785031328352
+    second: NES - Super Mario Bros 3 - Background_17
+  - first:
+      213: -8366558184526365466
+    second: NES - Super Mario Bros 3 - Background_18
+  - first:
+      213: -8201822477242200254
+    second: NES - Super Mario Bros 3 - Background_19
+  - first:
+      213: 8259060081047493851
+    second: NES - Super Mario Bros 3 - Background_20
+  - first:
+      213: -6094176553008189484
+    second: NES - Super Mario Bros 3 - Background_21
+  - first:
+      213: -2022313494358544076
+    second: NES - Super Mario Bros 3 - Background_22
+  - first:
+      213: 6256369319005716661
+    second: NES - Super Mario Bros 3 - Background_23
+  - first:
+      213: -5777841608536556225
+    second: NES - Super Mario Bros 3 - Background_24
+  - first:
+      213: -5576323694603896861
+    second: NES - Super Mario Bros 3 - Background_25
+  - first:
+      213: -7234055704129881227
+    second: NES - Super Mario Bros 3 - Background_26
+  - first:
+      213: -3814898439696425831
+    second: NES - Super Mario Bros 3 - Background_27
+  - first:
+      213: -3239366816396292934
+    second: NES - Super Mario Bros 3 - Background_28
+  - first:
+      213: 1051877100522193152
+    second: NES - Super Mario Bros 3 - Background_29
+  - first:
+      213: -3226622235243983064
+    second: NES - Super Mario Bros 3 - Background_30
+  - first:
+      213: 5747222706263371302
+    second: NES - Super Mario Bros 3 - Background_31
+  - first:
+      213: -5480052673826679530
+    second: NES - Super Mario Bros 3 - Background_32
+  - first:
+      213: -475494917653195128
+    second: NES - Super Mario Bros 3 - Background_33
+  - first:
+      213: -34782263650687614
+    second: NES - Super Mario Bros 3 - Background_34
+  - first:
+      213: 3007468517851277677
+    second: NES - Super Mario Bros 3 - Background_35
+  - first:
+      213: 1312675021960699471
+    second: NES - Super Mario Bros 3 - Background_36
+  - first:
+      213: -1599576365683009231
+    second: NES - Super Mario Bros 3 - Background_37
+  - first:
+      213: -1299566216083812218
+    second: NES - Super Mario Bros 3 - Background_38
+  - first:
+      213: -824763226012285155
+    second: NES - Super Mario Bros 3 - Background_39
+  - first:
+      213: 7853254921384144042
+    second: NES - Super Mario Bros 3 - Background_40
+  - first:
+      213: -8739464473619407773
+    second: NES - Super Mario Bros 3 - Background_41
+  - first:
+      213: 8560651918619052402
+    second: NES - Super Mario Bros 3 - Background_42
+  - first:
+      213: -4223755612881345446
+    second: NES - Super Mario Bros 3 - Background_43
+  - first:
+      213: 7665630802871338761
+    second: NES - Super Mario Bros 3 - Background_44
+  - first:
+      213: 2110462198578342422
+    second: NES - Super Mario Bros 3 - Background_45
+  - first:
+      213: -6530627492542710571
+    second: NES - Super Mario Bros 3 - Background_46
+  - first:
+      213: -1605531645596222351
+    second: NES - Super Mario Bros 3 - Background_47
+  - first:
+      213: 2305082175422847511
+    second: NES - Super Mario Bros 3 - Background_48
+  - first:
+      213: -8852544097685892731
+    second: NES - Super Mario Bros 3 - Background_49
+  - first:
+      213: -4579309695500759290
+    second: NES - Super Mario Bros 3 - Background_50
+  - first:
+      213: -4305996557406723332
+    second: NES - Super Mario Bros 3 - Background_51
+  - first:
+      213: 7114126164740077896
+    second: NES - Super Mario Bros 3 - Background_52
+  - first:
+      213: -1273004685075851397
+    second: NES - Super Mario Bros 3 - Background_53
+  - first:
+      213: 1104232502371645823
+    second: NES - Super Mario Bros 3 - Background_54
+  - first:
+      213: 6886258638212920969
+    second: NES - Super Mario Bros 3 - Background_55
+  - first:
+      213: 8573164250860440321
+    second: NES - Super Mario Bros 3 - Background_56
+  - first:
+      213: -9018198398820116548
+    second: NES - Super Mario Bros 3 - Background_57
+  - first:
+      213: -6070618603491585306
+    second: NES - Super Mario Bros 3 - Background_58
+  - first:
+      213: 5449977981268990519
+    second: NES - Super Mario Bros 3 - Background_59
+  - first:
+      213: 4516238286337241331
+    second: NES - Super Mario Bros 3 - Background_60
+  - first:
+      213: -3035582887837360237
+    second: NES - Super Mario Bros 3 - Background_61
+  - first:
+      213: -928610394483059676
+    second: NES - Super Mario Bros 3 - Background_62
+  - first:
+      213: -8813618409090898767
+    second: NES - Super Mario Bros 3 - Background_63
+  - first:
+      213: -2906491647393700347
+    second: NES - Super Mario Bros 3 - Background_64
+  - first:
+      213: -3448947764394931503
+    second: NES - Super Mario Bros 3 - Background_65
+  - first:
+      213: -4099385641393124502
+    second: NES - Super Mario Bros 3 - Background_66
+  - first:
+      213: 2891774669514858071
+    second: NES - Super Mario Bros 3 - Background_67
+  - first:
+      213: -3847202792934869120
+    second: NES - Super Mario Bros 3 - Background_68
+  - first:
+      213: 148911784525779036
+    second: NES - Super Mario Bros 3 - Background_69
+  - first:
+      213: -8437330165204764935
+    second: NES - Super Mario Bros 3 - Background_70
+  - first:
+      213: 373831736972915550
+    second: NES - Super Mario Bros 3 - Background_71
+  - first:
+      213: -9068778351920050171
+    second: NES - Super Mario Bros 3 - Background_72
+  - first:
+      213: 5378072157275068252
+    second: NES - Super Mario Bros 3 - Background_73
+  - first:
+      213: 6118740914959323695
+    second: NES - Super Mario Bros 3 - Background_74
+  - first:
+      213: -8986052308610162806
+    second: NES - Super Mario Bros 3 - Background_75
+  - first:
+      213: -3612505773164292604
+    second: NES - Super Mario Bros 3 - Background_76
+  - first:
+      213: -732063368840127888
+    second: NES - Super Mario Bros 3 - Background_77
+  - first:
+      213: -1244331207665666368
+    second: NES - Super Mario Bros 3 - Background_78
+  - first:
+      213: 7604570002532726192
+    second: NES - Super Mario Bros 3 - Background_79
+  - first:
+      213: 7890633593765444886
+    second: NES - Super Mario Bros 3 - Background_80
+  - first:
+      213: -5545002976639476794
+    second: NES - Super Mario Bros 3 - Background_81
+  - first:
+      213: 8684226434905901162
+    second: NES - Super Mario Bros 3 - Background_82
+  - first:
+      213: -6340727821288762155
+    second: NES - Super Mario Bros 3 - Background_83
+  - first:
+      213: -3295211363943579730
+    second: NES - Super Mario Bros 3 - Background_84
+  - first:
+      213: -7055113352234949755
+    second: NES - Super Mario Bros 3 - Background_85
+  - first:
+      213: -994045183879725932
+    second: NES - Super Mario Bros 3 - Background_86
+  - first:
+      213: -2528134513933846932
+    second: NES - Super Mario Bros 3 - Background_87
+  - first:
+      213: -4811115980373964838
+    second: NES - Super Mario Bros 3 - Background_88
+  - first:
+      213: 3460353212928490774
+    second: NES - Super Mario Bros 3 - Background_89
+  - first:
+      213: 761594902405872294
+    second: NES - Super Mario Bros 3 - Background_90
+  - first:
+      213: -2880307362418421453
+    second: NES - Super Mario Bros 3 - Background_91
+  - first:
+      213: 5860005835433757109
+    second: NES - Super Mario Bros 3 - Background_92
+  - first:
+      213: 9119367458919140955
+    second: NES - Super Mario Bros 3 - Background_93
+  - first:
+      213: -4249682992097509891
+    second: NES - Super Mario Bros 3 - Background_94
+  - first:
+      213: 4329036846503465458
+    second: NES - Super Mario Bros 3 - Background_95
+  - first:
+      213: 5469532968672474472
+    second: NES - Super Mario Bros 3 - Background_96
+  - first:
+      213: -8097947594969499494
+    second: NES - Super Mario Bros 3 - Background_97
+  - first:
+      213: 1504337206858461178
+    second: NES - Super Mario Bros 3 - Background_98
+  - first:
+      213: -4620070643757898711
+    second: NES - Super Mario Bros 3 - Background_99
+  - first:
+      213: -1723190598332816981
+    second: NES - Super Mario Bros 3 - Background_100
+  - first:
+      213: 1500681880998275575
+    second: NES - Super Mario Bros 3 - Background_101
+  - first:
+      213: -908874612616639114
+    second: NES - Super Mario Bros 3 - Background_102
+  - first:
+      213: -4949990566972298691
+    second: NES - Super Mario Bros 3 - Background_103
+  - first:
+      213: 180836550634918060
+    second: NES - Super Mario Bros 3 - Background_104
+  - first:
+      213: 800941279195431140
+    second: NES - Super Mario Bros 3 - Background_105
+  - first:
+      213: 6839509134196629351
+    second: NES - Super Mario Bros 3 - Background_106
+  - first:
+      213: -7946283533342890862
+    second: NES - Super Mario Bros 3 - Background_107
+  - first:
+      213: -8388918808602214360
+    second: NES - Super Mario Bros 3 - Background_108
+  - first:
+      213: 6786789587235239136
+    second: NES - Super Mario Bros 3 - Background_109
+  - first:
+      213: -8858959924887226629
+    second: NES - Super Mario Bros 3 - Background_110
+  - first:
+      213: 2289514861594790985
+    second: NES - Super Mario Bros 3 - Background_111
+  - first:
+      213: 2371814673810365438
+    second: NES - Super Mario Bros 3 - Background_112
+  - first:
+      213: -738173185841971131
+    second: NES - Super Mario Bros 3 - Background_113
+  - first:
+      213: 1359811437246807826
+    second: NES - Super Mario Bros 3 - Background_114
+  - first:
+      213: -6308125646477164722
+    second: NES - Super Mario Bros 3 - Background_115
+  - first:
+      213: -3343739974289702845
+    second: NES - Super Mario Bros 3 - Background_116
+  - first:
+      213: -3126547469726698622
+    second: NES - Super Mario Bros 3 - Background_117
+  - first:
+      213: 1005670855255031703
+    second: NES - Super Mario Bros 3 - Background_118
+  - first:
+      213: -2386528457076431476
+    second: NES - Super Mario Bros 3 - Background_119
+  - first:
+      213: 4349280246051733916
+    second: NES - Super Mario Bros 3 - Background_120
+  - first:
+      213: -7266283542060670755
+    second: NES - Super Mario Bros 3 - Background_121
+  - first:
+      213: -6412040912310812636
+    second: NES - Super Mario Bros 3 - Background_122
+  - first:
+      213: -7516652113396183688
+    second: NES - Super Mario Bros 3 - Background_123
+  - first:
+      213: 3644769320270794245
+    second: NES - Super Mario Bros 3 - Background_124
+  - first:
+      213: 1675706754506995893
+    second: NES - Super Mario Bros 3 - Background_125
+  - first:
+      213: -2654486990136353512
+    second: NES - Super Mario Bros 3 - Background_126
+  - first:
+      213: -4835297969292712507
+    second: NES - Super Mario Bros 3 - Background_127
+  - first:
+      213: -1479525247295349594
+    second: NES - Super Mario Bros 3 - Background_128
+  - first:
+      213: 2710382225551932008
+    second: NES - Super Mario Bros 3 - Background_129
+  - first:
+      213: -2653455148797723511
+    second: NES - Super Mario Bros 3 - Background_130
+  - first:
+      213: -6442042602243145973
+    second: NES - Super Mario Bros 3 - Background_131
+  - first:
+      213: -5989570534466451462
+    second: NES - Super Mario Bros 3 - Background_132
+  - first:
+      213: 5871477815332075366
+    second: NES - Super Mario Bros 3 - Background_133
+  - first:
+      213: 7644487939543506493
+    second: NES - Super Mario Bros 3 - Background_134
+  - first:
+      213: 3193830164232869490
+    second: NES - Super Mario Bros 3 - Background_135
+  - first:
+      213: 7099200747652465736
+    second: NES - Super Mario Bros 3 - Background_136
+  - first:
+      213: 5994856192786053769
+    second: NES - Super Mario Bros 3 - Background_137
+  - first:
+      213: 1074333979481299645
+    second: NES - Super Mario Bros 3 - Background_138
+  - first:
+      213: 353228301475419432
+    second: NES - Super Mario Bros 3 - Background_139
+  - first:
+      213: -4224196360395444728
+    second: NES - Super Mario Bros 3 - Background_140
+  - first:
+      213: 5573397375550822942
+    second: NES - Super Mario Bros 3 - Background_141
+  - first:
+      213: -6157500797537385309
+    second: NES - Super Mario Bros 3 - Background_142
+  - first:
+      213: 5876660865079240530
+    second: NES - Super Mario Bros 3 - Background_143
+  - first:
+      213: -3814658885169945768
+    second: NES - Super Mario Bros 3 - Background_144
+  - first:
+      213: -8621785126025778707
+    second: NES - Super Mario Bros 3 - Background_145
+  - first:
+      213: 6533756839778048864
+    second: NES - Super Mario Bros 3 - Background_146
+  - first:
+      213: 4124851404468202863
+    second: NES - Super Mario Bros 3 - Background_147
+  - first:
+      213: -5083586142443856512
+    second: NES - Super Mario Bros 3 - Background_148
+  - first:
+      213: -41543055315781881
+    second: NES - Super Mario Bros 3 - Background_149
+  - first:
+      213: -2599405537435017782
+    second: NES - Super Mario Bros 3 - Background_150
+  - first:
+      213: -3435667038529194117
+    second: NES - Super Mario Bros 3 - Background_151
+  - first:
+      213: 7726897759605113241
+    second: NES - Super Mario Bros 3 - Background_152
+  - first:
+      213: -3847767961470877658
+    second: NES - Super Mario Bros 3 - Background_153
+  - first:
+      213: 1966016392039098715
+    second: NES - Super Mario Bros 3 - Background_154
+  - first:
+      213: -6172524414628125156
+    second: NES - Super Mario Bros 3 - Background_155
+  - first:
+      213: 4150027718324002170
+    second: NES - Super Mario Bros 3 - Background_156
+  - first:
+      213: -5402009641653301950
+    second: NES - Super Mario Bros 3 - Background_157
+  - first:
+      213: -1428192987755715332
+    second: NES - Super Mario Bros 3 - Background_158
+  - first:
+      213: 5268149398266622011
+    second: NES - Super Mario Bros 3 - Background_159
+  - first:
+      213: -4524468092059889484
+    second: NES - Super Mario Bros 3 - Background_160
+  - first:
+      213: -1465604010236839807
+    second: NES - Super Mario Bros 3 - Background_161
+  - first:
+      213: -1344400792021083347
+    second: NES - Super Mario Bros 3 - Background_162
+  - first:
+      213: 2143688305535607468
+    second: NES - Super Mario Bros 3 - Background_163
+  - first:
+      213: 3031816648743664173
+    second: NES - Super Mario Bros 3 - Background_164
+  - first:
+      213: 8328482693080603721
+    second: NES - Super Mario Bros 3 - Background_165
+  - first:
+      213: 2177770168873866106
+    second: NES - Super Mario Bros 3 - Background_166
+  - first:
+      213: 6194247841087098129
+    second: NES - Super Mario Bros 3 - Background_167
+  - first:
+      213: 147556041061409964
+    second: NES - Super Mario Bros 3 - Background_168
+  - first:
+      213: -7063206375768061966
+    second: NES - Super Mario Bros 3 - Background_169
+  - first:
+      213: 8465875406314872533
+    second: NES - Super Mario Bros 3 - Background_170
+  - first:
+      213: -3348402813889724723
+    second: NES - Super Mario Bros 3 - Background_171
+  - first:
+      213: 7574907102604113412
+    second: NES - Super Mario Bros 3 - Background_172
+  - first:
+      213: 8629180394981716364
+    second: NES - Super Mario Bros 3 - Background_173
+  - first:
+      213: 420650060645589120
+    second: NES - Super Mario Bros 3 - Background_174
+  - first:
+      213: 811178310840771616
+    second: NES - Super Mario Bros 3 - Background_175
+  - first:
+      213: 4176500462814484146
+    second: NES - Super Mario Bros 3 - Background_176
+  - first:
+      213: -4966128885206783126
+    second: NES - Super Mario Bros 3 - Background_177
+  - first:
+      213: -7529022025783549682
+    second: NES - Super Mario Bros 3 - Background_178
+  - first:
+      213: -5717607465153637403
+    second: NES - Super Mario Bros 3 - Background_179
+  - first:
+      213: 434438800298480859
+    second: NES - Super Mario Bros 3 - Background_180
+  - first:
+      213: -6859079767206206409
+    second: NES - Super Mario Bros 3 - Background_181
+  - first:
+      213: 4719938933692623820
+    second: NES - Super Mario Bros 3 - Background_182
+  - first:
+      213: 5309941946875899843
+    second: NES - Super Mario Bros 3 - Background_183
+  - first:
+      213: -2346833472035099576
+    second: NES - Super Mario Bros 3 - Background_184
+  - first:
+      213: 1986097984882484213
+    second: NES - Super Mario Bros 3 - Background_185
+  - first:
+      213: -4523953544857834918
+    second: NES - Super Mario Bros 3 - Background_186
+  - first:
+      213: 1898626581532000100
+    second: NES - Super Mario Bros 3 - Background_187
+  - first:
+      213: -123542232167891558
+    second: NES - Super Mario Bros 3 - Background_188
+  - first:
+      213: -8949995874398676326
+    second: NES - Super Mario Bros 3 - Background_189
+  - first:
+      213: -7405232955050833987
+    second: NES - Super Mario Bros 3 - Background_190
+  - first:
+      213: 4014990821413451327
+    second: NES - Super Mario Bros 3 - Background_191
+  - first:
+      213: -1277118224838551346
+    second: NES - Super Mario Bros 3 - Background_192
+  - first:
+      213: 6134204117077395063
+    second: NES - Super Mario Bros 3 - Background_193
+  - first:
+      213: -8684373003222951960
+    second: NES - Super Mario Bros 3 - Background_194
+  - first:
+      213: -1724385020951366085
+    second: NES - Super Mario Bros 3 - Background_195
+  - first:
+      213: -692821645718531514
+    second: NES - Super Mario Bros 3 - Background_196
+  - first:
+      213: -9208602295505690941
+    second: NES - Super Mario Bros 3 - Background_197
+  - first:
+      213: 4801336669985790393
+    second: NES - Super Mario Bros 3 - Background_198
+  - first:
+      213: -4464518996393980918
+    second: NES - Super Mario Bros 3 - Background_199
+  - first:
+      213: -4957336328764817610
+    second: NES - Super Mario Bros 3 - Background_200
+  - first:
+      213: 6242177679702799240
+    second: NES - Super Mario Bros 3 - Background_201
+  - first:
+      213: 3237736638814419984
+    second: NES - Super Mario Bros 3 - Background_202
+  - first:
+      213: 7721825112807177429
+    second: NES - Super Mario Bros 3 - Background_203
+  - first:
+      213: -6170451143799374187
+    second: NES - Super Mario Bros 3 - Background_204
+  - first:
+      213: -495710292121235599
+    second: NES - Super Mario Bros 3 - Background_205
+  - first:
+      213: 4881402849529648095
+    second: NES - Super Mario Bros 3 - Background_206
+  - first:
+      213: 731935166851352041
+    second: NES - Super Mario Bros 3 - Background_207
+  - first:
+      213: 7351548419975348228
+    second: NES - Super Mario Bros 3 - Background_208
+  - first:
+      213: 7248038119807633426
+    second: NES - Super Mario Bros 3 - Background_209
+  - first:
+      213: -3933974696350118928
+    second: NES - Super Mario Bros 3 - Background_210
+  - first:
+      213: 7496689758393796097
+    second: NES - Super Mario Bros 3 - Background_211
+  - first:
+      213: 6775927851535453513
+    second: NES - Super Mario Bros 3 - Background_212
+  - first:
+      213: -6830818935434940756
+    second: NES - Super Mario Bros 3 - Background_213
+  - first:
+      213: -2711863910460008417
+    second: NES - Super Mario Bros 3 - Background_214
+  - first:
+      213: 5782873816348799752
+    second: NES - Super Mario Bros 3 - Background_215
+  - first:
+      213: 1886453083734604777
+    second: NES - Super Mario Bros 3 - Background_216
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 806
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c240b5293f17eac0800000000000000
+      internalID: -3826055028122041656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 806
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d489c2cbad7e3f0800000000000000
+      internalID: -871487501136015974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 804
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e22bf49b2ce7bd30800000000000000
+      internalID: 4447282828978889443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 805
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32f4ee09cd0bcf50800000000000000
+      internalID: 6902626011064889917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 806
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b7685559e71f490800000000000000
+      internalID: -7714245506858845372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 806
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9caefb2b0e98b4e0800000000000000
+      internalID: -1965647466527282021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 806
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8755e73427b061e60800000000000000
+      internalID: 7932540379046237560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 806
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269bbb4e38a6e9b20800000000000000
+      internalID: 3143066704661952866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 806
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51bf3814cfabf0f0800000000000000
+      internalID: -1082078028697194145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_9
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 806
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcceb399c7fa00d0800000000000000
+      internalID: -3455677318914192137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 806
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88fdce91bc7cbba0800000000000000
+      internalID: -6071841095286916982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 806
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22715c26e2e1f1a70800000000000000
+      internalID: 8799785381479651106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_12
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 680
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e521cac5e34a8c0800000000000000
+      internalID: -3988994802198618533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_13
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 681
+        width: 98
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0ed50f60bd07980800000000000000
+      internalID: -8543087670272859909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 753
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5076d064ed617930800000000000000
+      internalID: 4139210360174833754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 745
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7e8cba48e4b67e0800000000000000
+      internalID: -1771235696715438162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 786
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1a6c16be583d980800000000000000
+      internalID: -8515315224423259655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 679
+        width: 218
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062834a6e17487660800000000000000
+      internalID: 7383729785031328352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 685
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec3baab8a304eb80800000000000000
+      internalID: -8366558184526365466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 679
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f0a2d79e54d2e80800000000000000
+      internalID: -8201822477242200254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 634
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcd175a2631e9270800000000000000
+      internalID: 8259060081047493851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 651
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfae6f96b22d6ba0800000000000000
+      internalID: -6094176553008189484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_22
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431b740779c4fe3e0800000000000000
+      internalID: -2022313494358544076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 655
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b00dfa7fb613d650800000000000000
+      internalID: 6256369319005716661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 656
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3df4ba5babf0dfa0800000000000000
+      internalID: -5777841608536556225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 579
+        width: 186
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e77a86f42bec92b0800000000000000
+      internalID: -5576323694603896861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_26
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 617
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b33fd2aa87b9b90800000000000000
+      internalID: -7234055704129881227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_27
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 612
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cd3bfc412ce0bc0800000000000000
+      internalID: -3814898439696425831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_28
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 656
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcc28b1b057b03d0800000000000000
+      internalID: -3239366816396292934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 523
+        width: 81
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0014efb56a4099e00800000000000000
+      internalID: 1051877100522193152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 589
+        width: 74
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fc7e32c2cb833d0800000000000000
+      internalID: -3226622235243983064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_31
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 583
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e23ebe99c32cf40800000000000000
+      internalID: 5747222706263371302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_32
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 612
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6159122b021f2f3b0800000000000000
+      internalID: -5480052673826679530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_33
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 612
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88617c444e3b669f0800000000000000
+      internalID: -475494917653195128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_34
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 527
+        width: 74
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285ed9a27bd648ff0800000000000000
+      internalID: -34782263650687614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_35
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 527
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6922b7ceacacb920800000000000000
+      internalID: 3007468517851277677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_36
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 475
+        width: 145
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ede754afe873210800000000000000
+      internalID: 1312675021960699471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_37
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 521
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1399a5435c92dc9e0800000000000000
+      internalID: -1599576365683009231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_38
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 499
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680d930796307fde0800000000000000
+      internalID: -1299566216083812218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_39
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 443
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d178bb9373add84f0800000000000000
+      internalID: -824763226012285155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_40
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 497
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaca0bf1ebd5cfc60800000000000000
+      internalID: 7853254921384144042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_41
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 502
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cd4ca6d5f27b680800000000000000
+      internalID: -8739464473619407773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_42
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 477
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2790e0f409b8dc670800000000000000
+      internalID: 8560651918619052402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_43
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 477
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54252406a43265c0800000000000000
+      internalID: -4223755612881345446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_44
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 499
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9074078d99ac16a60800000000000000
+      internalID: 7665630802871338761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_45
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 498
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ae62a103ed94d10800000000000000
+      internalID: 2110462198578342422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_46
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 498
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc779275ec8e55a0800000000000000
+      internalID: -6530627492542710571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_47
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 475
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cb69c897108b9e0800000000000000
+      internalID: -1605531645596222351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_48
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 475
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ad924960c4dff10800000000000000
+      internalID: 2305082175422847511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_49
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 475
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58193f2cb02752580800000000000000
+      internalID: -8852544097685892731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 389
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fcc2b18160370c0800000000000000
+      internalID: -4579309695500759290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_51
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 451
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2a7b7f1f60e34c0800000000000000
+      internalID: -4305996557406723332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 424
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849f4a8fd047ab260800000000000000
+      internalID: 7114126164740077896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_53
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 424
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7755accbf0655ee0800000000000000
+      internalID: -1273004685075851397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_54
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 439
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f797d454c95035f00800000000000000
+      internalID: 1104232502371645823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 389
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986752a1fb7e09f50800000000000000
+      internalID: 6886258638212920969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_56
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 389
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b4d9da67ff9f670800000000000000
+      internalID: 8573164250860440321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_57
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 389
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb79454365ce8d280800000000000000
+      internalID: -9018198398820116548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_58
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 356
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2910c2b84d0cba0800000000000000
+      internalID: -6070618603491585306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_59
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 356
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a1d37491632ab40800000000000000
+      internalID: 5449977981268990519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_60
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 384
+        width: 162
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0762a1bc6ecae30800000000000000
+      internalID: 4516238286337241331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_61
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 366
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f133c52717fd5d0800000000000000
+      internalID: -3035582887837360237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_62
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 360
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4241a1624c9ec13f0800000000000000
+      internalID: -928610394483059676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_63
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 360
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b42b44e0ccbfa580800000000000000
+      internalID: -8813618409090898767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_64
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 360
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5066576fe311aa7d0800000000000000
+      internalID: -2906491647393700347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_65
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 359
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dacc561840e220d0800000000000000
+      internalID: -3448947764394931503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_66
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 359
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b0d678a7e0c17c0800000000000000
+      internalID: -4099385641393124502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_67
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 358
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ed7ea9db5a12820800000000000000
+      internalID: 2891774669514858071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_68
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 351
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087f934717dfb9ac0800000000000000
+      internalID: -3847202792934869120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_69
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 356
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c505783aa7a011200800000000000000
+      internalID: 148911784525779036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_70
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 356
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6384aeae498ea80800000000000000
+      internalID: -8437330165204764935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_71
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 356
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53b900fbfd103500800000000000000
+      internalID: 373831736972915550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_72
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 356
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5009d0b232a352280800000000000000
+      internalID: -9068778351920050171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_73
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 356
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c579ccef120c2aa40800000000000000
+      internalID: 5378072157275068252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_74
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 355
+        width: 56
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f229cc491722ae450800000000000000
+      internalID: 6118740914959323695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_75
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 368
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f563419012b4380800000000000000
+      internalID: -8986052308610162806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_76
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 365
+        width: 166
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4069e71a32dcdddc0800000000000000
+      internalID: -3612505773164292604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_77
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 367
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a5533ae3037d5f0800000000000000
+      internalID: -732063368840127888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_78
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 274
+        width: 114
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6b7200c5f3bbee0800000000000000
+      internalID: -1244331207665666368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_79
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 328
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5fd86602cd88960800000000000000
+      internalID: 7604570002532726192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_80
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 339
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d37297279218d60800000000000000
+      internalID: 7890633593765444886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_81
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 340
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb9be2eb213c03b0800000000000000
+      internalID: -5545002976639476794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_82
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a688f997ee1948870800000000000000
+      internalID: 8684226434905901162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_83
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 340
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d495a224a53108a0800000000000000
+      internalID: -6340727821288762155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_84
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 274
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafff4829be0542d0800000000000000
+      internalID: -3295211363943579730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_85
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 304
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583abe529c3371e90800000000000000
+      internalID: -7055113352234949755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_86
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 301
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c39240c217432f0800000000000000
+      internalID: -994045183879725932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_87
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 249
+        width: 105
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c667190ed034aecd0800000000000000
+      internalID: -2528134513933846932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_88
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 286
+        width: 130
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7ca98918b7b3db0800000000000000
+      internalID: -4811115980373964838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_89
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 286
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dfbf5d9e4a50030800000000000000
+      internalID: 3460353212928490774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_90
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 274
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa76a4578ab19a00800000000000000
+      internalID: 761594902405872294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_91
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 250
+        width: 73
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3319b13e6b71708d0800000000000000
+      internalID: -2880307362418421453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_92
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 205
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9ceba724ce25150800000000000000
+      internalID: 5860005835433757109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_93
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 226
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ec12d23608e8e70800000000000000
+      internalID: 9119367458919140955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_94
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 249
+        width: 63
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd3200a5d71605c0800000000000000
+      internalID: -4249682992097509891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_95
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 250
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f19a6f5314d31c30800000000000000
+      internalID: 4329036846503465458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_96
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 250
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865b205914fa7eb40800000000000000
+      internalID: 5469532968672474472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_97
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 250
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a983d10319f4e9f80800000000000000
+      internalID: -8097947594969499494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_98
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 250
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affa33528ba70e410800000000000000
+      internalID: 1504337206858461178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_99
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 205
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924a9994a3632efb0800000000000000
+      internalID: -4620070643757898711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_100
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 205
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1641ad74ff518e0800000000000000
+      internalID: -1723190598332816981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_101
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 221
+        width: 65
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f964c5483e73d410800000000000000
+      internalID: 1500681880998275575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_102
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 220
+        width: 66
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d4d91fa570363f0800000000000000
+      internalID: -908874612616639114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_103
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 220
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ae4163ec91e4bb0800000000000000
+      internalID: -4949990566972298691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_104
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 220
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0500b72e5728200800000000000000
+      internalID: 180836550634918060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_105
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 220
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0046099d38d1b00800000000000000
+      internalID: 800941279195431140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_106
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 220
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f54ddf151daee50800000000000000
+      internalID: 6839509134196629351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_107
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 221
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294af864a3129b190800000000000000
+      internalID: -7946283533342890862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_108
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 221
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8200cab3ac2949b80800000000000000
+      internalID: -8388918808602214360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_109
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 216
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4f970fb258f2e50800000000000000
+      internalID: 6786789587235239136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_110
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 216
+        width: 75
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6fca592e6ae0580800000000000000
+      internalID: -8858959924887226629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_111
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 216
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cc551e2adf5cf10800000000000000
+      internalID: 2289514861594790985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_112
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 197
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb968121e06ae020800000000000000
+      internalID: 2371814673810365438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_113
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 165
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540cb23066b71c5f0800000000000000
+      internalID: -738173185841971131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_114
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 181
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ffb9e2c450fd210800000000000000
+      internalID: 1359811437246807826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_115
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 181
+        width: 71
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f723b75290578a0800000000000000
+      internalID: -6308125646477164722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_116
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 181
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34040339536a891d0800000000000000
+      internalID: -3343739974289702845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_117
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 195
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2833b8534a54c94d0800000000000000
+      internalID: -3126547469726698622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_118
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 195
+        width: 75
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f7078805cd4fd00800000000000000
+      internalID: 1005670855255031703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_119
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 195
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85299d330951eed0800000000000000
+      internalID: -2386528457076431476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_120
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 171
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91898e175fbb5c30800000000000000
+      internalID: 4349280246051733916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_121
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 136
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0e43eed99f82b90800000000000000
+      internalID: -7266283542060670755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_122
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420417043cad307a0800000000000000
+      internalID: -6412040912310812636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_123
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dc4d05abc7fa790800000000000000
+      internalID: -7516652113396183688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_124
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e8bfec262d49230800000000000000
+      internalID: 3644769320270794245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_125
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 109
+        width: 18
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8bc1a3a6e414710800000000000000
+      internalID: 1675706754506995893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_126
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 109
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dd604852e592bd0800000000000000
+      internalID: -2654486990136353512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_127
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 164
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5e32d8d1295ecb0800000000000000
+      internalID: -4835297969292712507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_128
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 164
+        width: 71
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac1dbe50aba77be0800000000000000
+      internalID: -1479525247295349594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_129
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 164
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a3e8f16463d9520800000000000000
+      internalID: 2710382225551932008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_130
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 136
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cfa7cc9980d2bd0800000000000000
+      internalID: -2653455148797723511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_131
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 109
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f3d5972644996a0800000000000000
+      internalID: -6442042602243145973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_132
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 109
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af70bff3555c0eca0800000000000000
+      internalID: -5989570534466451462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_133
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 109
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6677471f6fdab7150800000000000000
+      internalID: 5871477815332075366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_134
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 109
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e9f3e574da61a60800000000000000
+      internalID: 7644487939543506493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_135
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 111
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276170cdc93c25c20800000000000000
+      internalID: 3193830164232869490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_136
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 114
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8444301877d658260800000000000000
+      internalID: 7099200747652465736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_137
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 97
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a309af1f1023350800000000000000
+      internalID: 5994856192786053769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_138
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 96
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba5d11ff0dc8ee00800000000000000
+      internalID: 1074333979481299645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_139
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 56
+        width: 114
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8259e0ac44be6e400800000000000000
+      internalID: 353228301475419432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_140
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 99
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ea12d7ac3a065c0800000000000000
+      internalID: -4224196360395444728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_141
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 74
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a1dc9426fa85d40800000000000000
+      internalID: 5573397375550822942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_142
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 74
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4899206a92c8aa0800000000000000
+      internalID: -6157500797537385309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_143
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 74
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257ec70cbe71e8150800000000000000
+      internalID: 5876660865079240530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_144
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 74
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853682274fb9f0bc0800000000000000
+      internalID: -3814658885169945768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_145
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 92
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9ac79ab14495880800000000000000
+      internalID: -8621785126025778707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_146
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 105
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bdfbb7a319caa50800000000000000
+      internalID: 6533756839778048864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_147
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 103
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d299a7f7a6e3930800000000000000
+      internalID: 4124851404468202863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_148
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 103
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d198266597379b0800000000000000
+      internalID: -5083586142443856512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_149
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 103
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707b401bfc86c6ff0800000000000000
+      internalID: -41543055315781881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_150
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 103
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd900a9f6e0debd0800000000000000
+      internalID: -2599405537435017782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_151
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 103
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77f2f9080f0250d0800000000000000
+      internalID: -3435667038529194117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_152
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 103
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9914601d2947b3b60800000000000000
+      internalID: 7726897759605113241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_153
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 103
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6204666ec6bf99ac0800000000000000
+      internalID: -3847767961470877658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_154
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 103
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59e51efd71b84b10800000000000000
+      internalID: 1966016392039098715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_155
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 103
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c162aa29fb9c65aa0800000000000000
+      internalID: -6172524414628125156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_156
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 103
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d1ab6d83cd79930800000000000000
+      internalID: 4150027718324002170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_157
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 103
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d050c1ad43805b0800000000000000
+      internalID: -5402009641653301950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_158
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 74
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4ed166b0a0e2ce0800000000000000
+      internalID: -1428192987755715332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_159
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 84
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30be5347f93c1940800000000000000
+      internalID: 5268149398266622011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_160
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 80
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b05e2fed3cd531c0800000000000000
+      internalID: -4524468092059889484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_161
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 84
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188f174fae029abe0800000000000000
+      internalID: -1465604010236839807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_162
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 84
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b54d34a9ab75de0800000000000000
+      internalID: -1344400792021083347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_163
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 80
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2eb98f729efbd10800000000000000
+      internalID: 2143688305535607468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_164
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 80
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a3b74cd2d231a20800000000000000
+      internalID: 3031816648743664173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_165
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 84
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cde0712e6b49370800000000000000
+      internalID: 8328482693080603721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_166
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 84
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a735b262e6ef83e10800000000000000
+      internalID: 2177770168873866106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_167
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 84
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d0abac79366f550800000000000000
+      internalID: 6194247841087098129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_168
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 80
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4ade300793c0200800000000000000
+      internalID: 147556041061409964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_169
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 23
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7021549337afd90800000000000000
+      internalID: -7063206375768061966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_170
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 5
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de1d12f3d4dc7570800000000000000
+      internalID: 8465875406314872533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_171
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 53
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce3f21a1651881d0800000000000000
+      internalID: -3348402813889724723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_172
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 53
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4063d4150e97f1960800000000000000
+      internalID: 7574907102604113412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_173
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 51
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8176a199d101c770800000000000000
+      internalID: 8629180394981716364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_174
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 51
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080e68f500376d500800000000000000
+      internalID: 420650060645589120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_175
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 65
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0246a2b3062e14b00800000000000000
+      internalID: 811178310840771616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_176
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 65
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6df4afa09e5f930800000000000000
+      internalID: 4176500462814484146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_177
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 65
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b61703714c41bb0800000000000000
+      internalID: -4966128885206783126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_178
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 65
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e016417ab5a838790800000000000000
+      internalID: -7529022025783549682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_179
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 65
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3556abd4af6a0b0800000000000000
+      internalID: -5717607465153637403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_180
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 65
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4107089cf670600800000000000000
+      internalID: 434438800298480859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_181
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 46
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734ea9dea47afc0a0800000000000000
+      internalID: -6859079767206206409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_182
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 46
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbe840f377908140800000000000000
+      internalID: 4719938933692623820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_183
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 65
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfeb714114b0b940800000000000000
+      internalID: 5309941946875899843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_184
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 65
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ce958246f5e6fd0800000000000000
+      internalID: -2346833472035099576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_185
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 65
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f32a0e2899009b10800000000000000
+      internalID: 1986097984882484213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_186
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 23
+        width: 154
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a216a4830b731c0800000000000000
+      internalID: -4523953544857834918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_187
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 37
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f345901d6495a10800000000000000
+      internalID: 1898626581532000100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_188
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 37
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dbfd09ef6194ef0800000000000000
+      internalID: -123542232167891558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_189
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 28
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a514ddb2a3bc380800000000000000
+      internalID: -8949995874398676326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_190
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 28
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7cd2bacd35b3990800000000000000
+      internalID: -7405232955050833987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_191
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 28
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f367dc631ec18b730800000000000000
+      internalID: 4014990821413451327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_192
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 46
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec81250bdb3c64ee0800000000000000
+      internalID: -1277118224838551346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_193
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 46
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7760322e422112550800000000000000
+      internalID: 6134204117077395063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_194
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 46
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e757ede3c8ea7780800000000000000
+      internalID: -8684373003222951960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_195
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 46
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36703aa5f0c118e0800000000000000
+      internalID: -1724385020951366085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_196
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 46
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642de3a426a9266f0800000000000000
+      internalID: -692821645718531514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_197
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 46
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce59826009743080800000000000000
+      internalID: -9208602295505690941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_198
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 46
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b95f854346c1a240800000000000000
+      internalID: 4801336669985790393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_199
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 31
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c04f670a7da02c0800000000000000
+      internalID: -4464518996393980918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_200
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 31
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f75d3cfd0043bb0800000000000000
+      internalID: -4957336328764817610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_201
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 32
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883be87f68ba0a650800000000000000
+      internalID: 6242177679702799240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_202
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 23
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cfcc89150ceec20800000000000000
+      internalID: 3237736638814419984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_203
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 27
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcff82370f692b60800000000000000
+      internalID: 7721825112807177429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_204
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 27
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e7fed80672e5aa0800000000000000
+      internalID: -6170451143799374187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_205
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 27
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fcb9e9d12ee19f0800000000000000
+      internalID: -495710292121235599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_206
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 27
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd35bc3670a3eb340800000000000000
+      internalID: 4881402849529648095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_207
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 27
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e58ac2082b582a00800000000000000
+      internalID: 731935166851352041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_208
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 27
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40007b97652f50660800000000000000
+      internalID: 7351548419975348228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_209
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 8
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218cf99a444369460800000000000000
+      internalID: 7248038119807633426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_210
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb0da45bd6b769c0800000000000000
+      internalID: -3933974696350118928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_211
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 8
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1060f58bd97990860800000000000000
+      internalID: 7496689758393796097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_212
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d42760b7ee80e50800000000000000
+      internalID: 6775927851535453513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_213
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 8
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae63649e5e0431a0800000000000000
+      internalID: -6830818935434940756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_214
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1854d934268d5ad0800000000000000
+      internalID: -2711863910460008417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_215
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803b064d815e04050800000000000000
+      internalID: 5782873816348799752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Background_216
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 8
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebf075b5170e2a10800000000000000
+      internalID: 1886453083734604777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Super Mario Bros 3 - Background_0: -3826055028122041656
+      NES - Super Mario Bros 3 - Background_1: -871487501136015974
+      NES - Super Mario Bros 3 - Background_10: -6071841095286916982
+      NES - Super Mario Bros 3 - Background_100: -1723190598332816981
+      NES - Super Mario Bros 3 - Background_101: 1500681880998275575
+      NES - Super Mario Bros 3 - Background_102: -908874612616639114
+      NES - Super Mario Bros 3 - Background_103: -4949990566972298691
+      NES - Super Mario Bros 3 - Background_104: 180836550634918060
+      NES - Super Mario Bros 3 - Background_105: 800941279195431140
+      NES - Super Mario Bros 3 - Background_106: 6839509134196629351
+      NES - Super Mario Bros 3 - Background_107: -7946283533342890862
+      NES - Super Mario Bros 3 - Background_108: -8388918808602214360
+      NES - Super Mario Bros 3 - Background_109: 6786789587235239136
+      NES - Super Mario Bros 3 - Background_11: 8799785381479651106
+      NES - Super Mario Bros 3 - Background_110: -8858959924887226629
+      NES - Super Mario Bros 3 - Background_111: 2289514861594790985
+      NES - Super Mario Bros 3 - Background_112: 2371814673810365438
+      NES - Super Mario Bros 3 - Background_113: -738173185841971131
+      NES - Super Mario Bros 3 - Background_114: 1359811437246807826
+      NES - Super Mario Bros 3 - Background_115: -6308125646477164722
+      NES - Super Mario Bros 3 - Background_116: -3343739974289702845
+      NES - Super Mario Bros 3 - Background_117: -3126547469726698622
+      NES - Super Mario Bros 3 - Background_118: 1005670855255031703
+      NES - Super Mario Bros 3 - Background_119: -2386528457076431476
+      NES - Super Mario Bros 3 - Background_12: -3988994802198618533
+      NES - Super Mario Bros 3 - Background_120: 4349280246051733916
+      NES - Super Mario Bros 3 - Background_121: -7266283542060670755
+      NES - Super Mario Bros 3 - Background_122: -6412040912310812636
+      NES - Super Mario Bros 3 - Background_123: -7516652113396183688
+      NES - Super Mario Bros 3 - Background_124: 3644769320270794245
+      NES - Super Mario Bros 3 - Background_125: 1675706754506995893
+      NES - Super Mario Bros 3 - Background_126: -2654486990136353512
+      NES - Super Mario Bros 3 - Background_127: -4835297969292712507
+      NES - Super Mario Bros 3 - Background_128: -1479525247295349594
+      NES - Super Mario Bros 3 - Background_129: 2710382225551932008
+      NES - Super Mario Bros 3 - Background_13: -8543087670272859909
+      NES - Super Mario Bros 3 - Background_130: -2653455148797723511
+      NES - Super Mario Bros 3 - Background_131: -6442042602243145973
+      NES - Super Mario Bros 3 - Background_132: -5989570534466451462
+      NES - Super Mario Bros 3 - Background_133: 5871477815332075366
+      NES - Super Mario Bros 3 - Background_134: 7644487939543506493
+      NES - Super Mario Bros 3 - Background_135: 3193830164232869490
+      NES - Super Mario Bros 3 - Background_136: 7099200747652465736
+      NES - Super Mario Bros 3 - Background_137: 5994856192786053769
+      NES - Super Mario Bros 3 - Background_138: 1074333979481299645
+      NES - Super Mario Bros 3 - Background_139: 353228301475419432
+      NES - Super Mario Bros 3 - Background_14: 4139210360174833754
+      NES - Super Mario Bros 3 - Background_140: -4224196360395444728
+      NES - Super Mario Bros 3 - Background_141: 5573397375550822942
+      NES - Super Mario Bros 3 - Background_142: -6157500797537385309
+      NES - Super Mario Bros 3 - Background_143: 5876660865079240530
+      NES - Super Mario Bros 3 - Background_144: -3814658885169945768
+      NES - Super Mario Bros 3 - Background_145: -8621785126025778707
+      NES - Super Mario Bros 3 - Background_146: 6533756839778048864
+      NES - Super Mario Bros 3 - Background_147: 4124851404468202863
+      NES - Super Mario Bros 3 - Background_148: -5083586142443856512
+      NES - Super Mario Bros 3 - Background_149: -41543055315781881
+      NES - Super Mario Bros 3 - Background_15: -1771235696715438162
+      NES - Super Mario Bros 3 - Background_150: -2599405537435017782
+      NES - Super Mario Bros 3 - Background_151: -3435667038529194117
+      NES - Super Mario Bros 3 - Background_152: 7726897759605113241
+      NES - Super Mario Bros 3 - Background_153: -3847767961470877658
+      NES - Super Mario Bros 3 - Background_154: 1966016392039098715
+      NES - Super Mario Bros 3 - Background_155: -6172524414628125156
+      NES - Super Mario Bros 3 - Background_156: 4150027718324002170
+      NES - Super Mario Bros 3 - Background_157: -5402009641653301950
+      NES - Super Mario Bros 3 - Background_158: -1428192987755715332
+      NES - Super Mario Bros 3 - Background_159: 5268149398266622011
+      NES - Super Mario Bros 3 - Background_16: -8515315224423259655
+      NES - Super Mario Bros 3 - Background_160: -4524468092059889484
+      NES - Super Mario Bros 3 - Background_161: -1465604010236839807
+      NES - Super Mario Bros 3 - Background_162: -1344400792021083347
+      NES - Super Mario Bros 3 - Background_163: 2143688305535607468
+      NES - Super Mario Bros 3 - Background_164: 3031816648743664173
+      NES - Super Mario Bros 3 - Background_165: 8328482693080603721
+      NES - Super Mario Bros 3 - Background_166: 2177770168873866106
+      NES - Super Mario Bros 3 - Background_167: 6194247841087098129
+      NES - Super Mario Bros 3 - Background_168: 147556041061409964
+      NES - Super Mario Bros 3 - Background_169: -7063206375768061966
+      NES - Super Mario Bros 3 - Background_17: 7383729785031328352
+      NES - Super Mario Bros 3 - Background_170: 8465875406314872533
+      NES - Super Mario Bros 3 - Background_171: -3348402813889724723
+      NES - Super Mario Bros 3 - Background_172: 7574907102604113412
+      NES - Super Mario Bros 3 - Background_173: 8629180394981716364
+      NES - Super Mario Bros 3 - Background_174: 420650060645589120
+      NES - Super Mario Bros 3 - Background_175: 811178310840771616
+      NES - Super Mario Bros 3 - Background_176: 4176500462814484146
+      NES - Super Mario Bros 3 - Background_177: -4966128885206783126
+      NES - Super Mario Bros 3 - Background_178: -7529022025783549682
+      NES - Super Mario Bros 3 - Background_179: -5717607465153637403
+      NES - Super Mario Bros 3 - Background_18: -8366558184526365466
+      NES - Super Mario Bros 3 - Background_180: 434438800298480859
+      NES - Super Mario Bros 3 - Background_181: -6859079767206206409
+      NES - Super Mario Bros 3 - Background_182: 4719938933692623820
+      NES - Super Mario Bros 3 - Background_183: 5309941946875899843
+      NES - Super Mario Bros 3 - Background_184: -2346833472035099576
+      NES - Super Mario Bros 3 - Background_185: 1986097984882484213
+      NES - Super Mario Bros 3 - Background_186: -4523953544857834918
+      NES - Super Mario Bros 3 - Background_187: 1898626581532000100
+      NES - Super Mario Bros 3 - Background_188: -123542232167891558
+      NES - Super Mario Bros 3 - Background_189: -8949995874398676326
+      NES - Super Mario Bros 3 - Background_19: -8201822477242200254
+      NES - Super Mario Bros 3 - Background_190: -7405232955050833987
+      NES - Super Mario Bros 3 - Background_191: 4014990821413451327
+      NES - Super Mario Bros 3 - Background_192: -1277118224838551346
+      NES - Super Mario Bros 3 - Background_193: 6134204117077395063
+      NES - Super Mario Bros 3 - Background_194: -8684373003222951960
+      NES - Super Mario Bros 3 - Background_195: -1724385020951366085
+      NES - Super Mario Bros 3 - Background_196: -692821645718531514
+      NES - Super Mario Bros 3 - Background_197: -9208602295505690941
+      NES - Super Mario Bros 3 - Background_198: 4801336669985790393
+      NES - Super Mario Bros 3 - Background_199: -4464518996393980918
+      NES - Super Mario Bros 3 - Background_2: 4447282828978889443
+      NES - Super Mario Bros 3 - Background_20: 8259060081047493851
+      NES - Super Mario Bros 3 - Background_200: -4957336328764817610
+      NES - Super Mario Bros 3 - Background_201: 6242177679702799240
+      NES - Super Mario Bros 3 - Background_202: 3237736638814419984
+      NES - Super Mario Bros 3 - Background_203: 7721825112807177429
+      NES - Super Mario Bros 3 - Background_204: -6170451143799374187
+      NES - Super Mario Bros 3 - Background_205: -495710292121235599
+      NES - Super Mario Bros 3 - Background_206: 4881402849529648095
+      NES - Super Mario Bros 3 - Background_207: 731935166851352041
+      NES - Super Mario Bros 3 - Background_208: 7351548419975348228
+      NES - Super Mario Bros 3 - Background_209: 7248038119807633426
+      NES - Super Mario Bros 3 - Background_21: -6094176553008189484
+      NES - Super Mario Bros 3 - Background_210: -3933974696350118928
+      NES - Super Mario Bros 3 - Background_211: 7496689758393796097
+      NES - Super Mario Bros 3 - Background_212: 6775927851535453513
+      NES - Super Mario Bros 3 - Background_213: -6830818935434940756
+      NES - Super Mario Bros 3 - Background_214: -2711863910460008417
+      NES - Super Mario Bros 3 - Background_215: 5782873816348799752
+      NES - Super Mario Bros 3 - Background_216: 1886453083734604777
+      NES - Super Mario Bros 3 - Background_22: -2022313494358544076
+      NES - Super Mario Bros 3 - Background_23: 6256369319005716661
+      NES - Super Mario Bros 3 - Background_24: -5777841608536556225
+      NES - Super Mario Bros 3 - Background_25: -5576323694603896861
+      NES - Super Mario Bros 3 - Background_26: -7234055704129881227
+      NES - Super Mario Bros 3 - Background_27: -3814898439696425831
+      NES - Super Mario Bros 3 - Background_28: -3239366816396292934
+      NES - Super Mario Bros 3 - Background_29: 1051877100522193152
+      NES - Super Mario Bros 3 - Background_3: 6902626011064889917
+      NES - Super Mario Bros 3 - Background_30: -3226622235243983064
+      NES - Super Mario Bros 3 - Background_31: 5747222706263371302
+      NES - Super Mario Bros 3 - Background_32: -5480052673826679530
+      NES - Super Mario Bros 3 - Background_33: -475494917653195128
+      NES - Super Mario Bros 3 - Background_34: -34782263650687614
+      NES - Super Mario Bros 3 - Background_35: 3007468517851277677
+      NES - Super Mario Bros 3 - Background_36: 1312675021960699471
+      NES - Super Mario Bros 3 - Background_37: -1599576365683009231
+      NES - Super Mario Bros 3 - Background_38: -1299566216083812218
+      NES - Super Mario Bros 3 - Background_39: -824763226012285155
+      NES - Super Mario Bros 3 - Background_4: -7714245506858845372
+      NES - Super Mario Bros 3 - Background_40: 7853254921384144042
+      NES - Super Mario Bros 3 - Background_41: -8739464473619407773
+      NES - Super Mario Bros 3 - Background_42: 8560651918619052402
+      NES - Super Mario Bros 3 - Background_43: -4223755612881345446
+      NES - Super Mario Bros 3 - Background_44: 7665630802871338761
+      NES - Super Mario Bros 3 - Background_45: 2110462198578342422
+      NES - Super Mario Bros 3 - Background_46: -6530627492542710571
+      NES - Super Mario Bros 3 - Background_47: -1605531645596222351
+      NES - Super Mario Bros 3 - Background_48: 2305082175422847511
+      NES - Super Mario Bros 3 - Background_49: -8852544097685892731
+      NES - Super Mario Bros 3 - Background_5: -1965647466527282021
+      NES - Super Mario Bros 3 - Background_50: -4579309695500759290
+      NES - Super Mario Bros 3 - Background_51: -4305996557406723332
+      NES - Super Mario Bros 3 - Background_52: 7114126164740077896
+      NES - Super Mario Bros 3 - Background_53: -1273004685075851397
+      NES - Super Mario Bros 3 - Background_54: 1104232502371645823
+      NES - Super Mario Bros 3 - Background_55: 6886258638212920969
+      NES - Super Mario Bros 3 - Background_56: 8573164250860440321
+      NES - Super Mario Bros 3 - Background_57: -9018198398820116548
+      NES - Super Mario Bros 3 - Background_58: -6070618603491585306
+      NES - Super Mario Bros 3 - Background_59: 5449977981268990519
+      NES - Super Mario Bros 3 - Background_6: 7932540379046237560
+      NES - Super Mario Bros 3 - Background_60: 4516238286337241331
+      NES - Super Mario Bros 3 - Background_61: -3035582887837360237
+      NES - Super Mario Bros 3 - Background_62: -928610394483059676
+      NES - Super Mario Bros 3 - Background_63: -8813618409090898767
+      NES - Super Mario Bros 3 - Background_64: -2906491647393700347
+      NES - Super Mario Bros 3 - Background_65: -3448947764394931503
+      NES - Super Mario Bros 3 - Background_66: -4099385641393124502
+      NES - Super Mario Bros 3 - Background_67: 2891774669514858071
+      NES - Super Mario Bros 3 - Background_68: -3847202792934869120
+      NES - Super Mario Bros 3 - Background_69: 148911784525779036
+      NES - Super Mario Bros 3 - Background_7: 3143066704661952866
+      NES - Super Mario Bros 3 - Background_70: -8437330165204764935
+      NES - Super Mario Bros 3 - Background_71: 373831736972915550
+      NES - Super Mario Bros 3 - Background_72: -9068778351920050171
+      NES - Super Mario Bros 3 - Background_73: 5378072157275068252
+      NES - Super Mario Bros 3 - Background_74: 6118740914959323695
+      NES - Super Mario Bros 3 - Background_75: -8986052308610162806
+      NES - Super Mario Bros 3 - Background_76: -3612505773164292604
+      NES - Super Mario Bros 3 - Background_77: -732063368840127888
+      NES - Super Mario Bros 3 - Background_78: -1244331207665666368
+      NES - Super Mario Bros 3 - Background_79: 7604570002532726192
+      NES - Super Mario Bros 3 - Background_8: -1082078028697194145
+      NES - Super Mario Bros 3 - Background_80: 7890633593765444886
+      NES - Super Mario Bros 3 - Background_81: -5545002976639476794
+      NES - Super Mario Bros 3 - Background_82: 8684226434905901162
+      NES - Super Mario Bros 3 - Background_83: -6340727821288762155
+      NES - Super Mario Bros 3 - Background_84: -3295211363943579730
+      NES - Super Mario Bros 3 - Background_85: -7055113352234949755
+      NES - Super Mario Bros 3 - Background_86: -994045183879725932
+      NES - Super Mario Bros 3 - Background_87: -2528134513933846932
+      NES - Super Mario Bros 3 - Background_88: -4811115980373964838
+      NES - Super Mario Bros 3 - Background_89: 3460353212928490774
+      NES - Super Mario Bros 3 - Background_9: -3455677318914192137
+      NES - Super Mario Bros 3 - Background_90: 761594902405872294
+      NES - Super Mario Bros 3 - Background_91: -2880307362418421453
+      NES - Super Mario Bros 3 - Background_92: 5860005835433757109
+      NES - Super Mario Bros 3 - Background_93: 9119367458919140955
+      NES - Super Mario Bros 3 - Background_94: -4249682992097509891
+      NES - Super Mario Bros 3 - Background_95: 4329036846503465458
+      NES - Super Mario Bros 3 - Background_96: 5469532968672474472
+      NES - Super Mario Bros 3 - Background_97: -8097947594969499494
+      NES - Super Mario Bros 3 - Background_98: 1504337206858461178
+      NES - Super Mario Bros 3 - Background_99: -4620070643757898711
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
