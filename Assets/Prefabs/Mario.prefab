@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 501441790997624880}
   m_Layer: 0
   m_Name: GroundCheck
-  m_TagString: Untagged
+  m_TagString: Foot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25,8 +25,8 @@ Transform:
   m_GameObject: {fileID: 16678709914705583}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.01, y: -0.19, z: -5036.9473}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0.01, y: -0.28, z: -5036.9473}
+  m_LocalScale: {x: 1, y: 1.12, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6163132529043744455}
@@ -42,12 +42,12 @@ GameObject:
   - component: {fileID: 243396791316755955}
   - component: {fileID: 1724874438498276220}
   - component: {fileID: 1975588557509397197}
-  - component: {fileID: 4166227573245599295}
+  - component: {fileID: 8898516248958612033}
   - component: {fileID: 1411981230681888771}
   - component: {fileID: 6298170406236829509}
   m_Layer: 0
   m_Name: SuperMario
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -61,7 +61,7 @@ Transform:
   m_GameObject: {fileID: 4058724546110463121}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.24, z: 0}
+  m_LocalPosition: {x: 0, y: 0.25, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -110,7 +110,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_Sprite: {fileID: -9160904334469707151, guid: 7ef38b329b4742f4eb1d4a5ba7e4548a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -149,8 +149,8 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!61 &4166227573245599295
-BoxCollider2D:
+--- !u!70 &8898516248958612033
+CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -183,18 +183,9 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.5, y: 0.90625}
-    newSize: {x: 0.16, y: 0.29}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 0.5, y: 0.90625}
-  m_EdgeRadius: 0
+  m_Offset: {x: -0.006840706, y: -0.020084977}
+  m_Size: {x: 0.47145462, y: 0.95}
+  m_Direction: 0
 --- !u!114 &1411981230681888771
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -246,12 +237,12 @@ GameObject:
   - component: {fileID: 6163132529043744455}
   - component: {fileID: 8470971516720920384}
   - component: {fileID: 6406327792040915084}
-  - component: {fileID: 7668642537213387549}
+  - component: {fileID: 4251173067469548681}
   - component: {fileID: 3285122350418924375}
   - component: {fileID: 8228928792024945557}
   m_Layer: 0
   m_Name: SmallMario
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -353,8 +344,8 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!61 &7668642537213387549
-BoxCollider2D:
+--- !u!70 &4251173067469548681
+CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -387,18 +378,9 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0.035623908}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.46875, y: 0.5625}
-    newSize: {x: 0.46875, y: 0.5625}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 0.46875, y: 0.49125218}
-  m_EdgeRadius: 0
+  m_Offset: {x: -0.017216206, y: -0.0076413155}
+  m_Size: {x: 0.33676243, y: 0.46875}
+  m_Direction: 0
 --- !u!114 &3285122350418924375
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -483,7 +465,7 @@ GameObject:
   - component: {fileID: 4289420347951806355}
   m_Layer: 0
   m_Name: GroundCheck
-  m_TagString: Untagged
+  m_TagString: Foot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -497,7 +479,7 @@ Transform:
   m_GameObject: {fileID: 8549607305565736817}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.37, z: 0}
+  m_LocalPosition: {x: 0.022, y: -0.471, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

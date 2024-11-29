@@ -107,9 +107,10 @@ GameObject:
   - component: {fileID: 7109109589606138811}
   - component: {fileID: 4681805430461855433}
   - component: {fileID: 8155844260056491361}
-  - component: {fileID: 1480456250182600059}
+  - component: {fileID: 3047146159398912039}
   - component: {fileID: 3136887066121942615}
   - component: {fileID: 7308774397935072668}
+  - component: {fileID: 5073905995189821155}
   m_Layer: 0
   m_Name: Goomba
   m_TagString: Untagged
@@ -174,7 +175,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: -6362817563459295690, guid: 5ff09f50fa2952847af1b13282d5cac5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -208,7 +209,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!70 &1480456250182600059
+--- !u!70 &3047146159398912039
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -242,8 +243,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.0047357082, y: 0.028413653}
-  m_Size: {x: 0.46778822, y: 0.5056727}
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 0.5625, y: 0.5625}
   m_Direction: 0
 --- !u!50 &3136887066121942615
 Rigidbody2D:
@@ -289,3 +290,19 @@ MonoBehaviour:
   rb: {fileID: 3136887066121942615}
   currentpos: {fileID: 7109109589606138811}
   speed: 2
+--- !u!114 &5073905995189821155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8774850245965465805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1abb96b079030ca409da46c1ebb5096c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 8155844260056491361}
+  player: {fileID: 0}
+  playerTag: Player
+  squished: {fileID: 5515139405377066769, guid: 5ff09f50fa2952847af1b13282d5cac5, type: 3}
