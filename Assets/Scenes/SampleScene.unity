@@ -998,6 +998,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 168722976}
   coinPrefab: {fileID: 578533450}
+  audioManager: {fileID: 0}
 --- !u!70 &168722976
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -1290,6 +1291,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 270656581}
   coinPrefab: {fileID: 682570758}
+  audioManager: {fileID: 0}
 --- !u!70 &270656581
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -1444,6 +1446,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 291134923}
   coinPrefab: {fileID: 1799196048}
+  audioManager: {fileID: 0}
 --- !u!70 &291134923
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -1534,6 +1537,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 306221690}
   coinPrefab: {fileID: 483377112}
+  audioManager: {fileID: 0}
 --- !u!70 &306221690
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -1745,6 +1749,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 361915629}
   coinPrefab: {fileID: 1940240135}
+  audioManager: {fileID: 0}
 --- !u!70 &361915629
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -1830,6 +1835,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 363634636}
   coinPrefab: {fileID: 363634633}
+  audioManager: {fileID: 0}
 --- !u!70 &363634636
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -2038,6 +2044,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 414481211}
   coinPrefab: {fileID: 1386804980}
+  audioManager: {fileID: 0}
 --- !u!70 &414481211
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -2387,6 +2394,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 485313193}
   coinPrefab: {fileID: 54107831}
+  audioManager: {fileID: 0}
 --- !u!70 &485313193
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -2529,6 +2537,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 497181069}
   coinPrefab: {fileID: 1251859492}
+  audioManager: {fileID: 0}
 --- !u!70 &497181069
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -2788,6 +2797,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 532460580}
   coinPrefab: {fileID: 445595007}
+  audioManager: {fileID: 0}
 --- !u!70 &532460580
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -2873,6 +2883,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 536531343}
   coinPrefab: {fileID: 1332024484}
+  audioManager: {fileID: 0}
 --- !u!70 &536531343
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -3079,6 +3090,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 562515865}
   coinPrefab: {fileID: 271165576}
+  audioManager: {fileID: 0}
 --- !u!70 &562515865
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -3270,6 +3282,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 666159739}
   coinPrefab: {fileID: 1323968517}
+  audioManager: {fileID: 0}
 --- !u!70 &666159739
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -3412,6 +3425,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 667242072}
   coinPrefab: {fileID: 1895063972}
+  audioManager: {fileID: 0}
 --- !u!70 &667242072
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -3497,6 +3511,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 667245080}
   coinPrefab: {fileID: 1880105362}
+  audioManager: {fileID: 0}
 --- !u!70 &667245080
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -4004,6 +4019,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 754807872}
   coinPrefab: {fileID: 1473929313}
+  audioManager: {fileID: 0}
 --- !u!70 &754807872
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -4089,6 +4105,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 776253662}
   coinPrefab: {fileID: 1714413777}
+  audioManager: {fileID: 0}
 --- !u!70 &776253662
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -4174,6 +4191,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 777963406}
   coinPrefab: {fileID: 791679505}
+  audioManager: {fileID: 0}
 --- !u!70 &777963406
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -4419,6 +4437,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 855183332}
   coinPrefab: {fileID: 1257597736}
+  audioManager: {fileID: 0}
 --- !u!70 &855183332
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -4509,6 +4528,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 865465795}
   coinPrefab: {fileID: 1784801335}
+  audioManager: {fileID: 0}
 --- !u!70 &865465795
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -4817,6 +4837,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 971861598}
   coinPrefab: {fileID: 2108847608}
+  audioManager: {fileID: 0}
 --- !u!70 &971861598
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -5089,6 +5110,135 @@ PrefabInstance:
       addedObject: {fileID: 363634634}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e006ac1f83da71540875f60d612d0d12, type: 3}
+--- !u!1 &1065280409
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1065280411}
+  - component: {fileID: 1065280410}
+  m_Layer: 0
+  m_Name: SFX
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1065280410
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1065280409}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1065280411
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1065280409}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1634246677}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1070823170
 GameObject:
   m_ObjectHideFlags: 0
@@ -5137,6 +5287,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 1070823173}
   coinPrefab: {fileID: 1595740327}
+  audioManager: {fileID: 0}
 --- !u!70 &1070823173
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -5460,6 +5611,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 1133995537}
   coinPrefab: {fileID: 97401018}
+  audioManager: {fileID: 0}
 --- !u!70 &1133995537
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -5545,6 +5697,135 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6276011871217197662, guid: e006ac1f83da71540875f60d612d0d12, type: 3}
   m_PrefabInstance: {fileID: 1371224276}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1168284187
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1168284188}
+  - component: {fileID: 1168284189}
+  m_Layer: 0
+  m_Name: Music
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1168284188
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1168284187}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1634246677}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &1168284189
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1168284187}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &1188127117 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7856768474424109609, guid: e006ac1f83da71540875f60d612d0d12, type: 3}
@@ -5829,6 +6110,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 1209972610}
   coinPrefab: {fileID: 695394236}
+  audioManager: {fileID: 0}
 --- !u!70 &1209972610
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -6185,6 +6467,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 1249664746}
   coinPrefab: {fileID: 1191407505}
+  audioManager: {fileID: 0}
 --- !u!70 &1249664746
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -6567,6 +6850,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 1384107860}
   coinPrefab: {fileID: 303845441}
+  audioManager: {fileID: 0}
 --- !u!70 &1384107860
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -6914,6 +7198,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 1439860516}
   coinPrefab: {fileID: 1679718052}
+  audioManager: {fileID: 0}
 --- !u!70 &1439860516
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -7484,6 +7769,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 1595597041}
   coinPrefab: {fileID: 74433101}
+  audioManager: {fileID: 0}
 --- !u!70 &1595597041
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -7574,6 +7860,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 1600593936}
   coinPrefab: {fileID: 1869608135}
+  audioManager: {fileID: 0}
 --- !u!70 &1600593936
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -7798,6 +8085,57 @@ PrefabInstance:
       addedObject: {fileID: 497181067}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e006ac1f83da71540875f60d612d0d12, type: 3}
+--- !u!1 &1634246675
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1634246677}
+  - component: {fileID: 1634246676}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: AudioManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1634246676
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1634246675}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e1df84d4eec04843a20584bfb284d7e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  musicSource: {fileID: 1168284189}
+  SFXSource: {fileID: 1065280410}
+  background: {fileID: 8300000, guid: 254a21980295a3148ac5449f510d1841, type: 3}
+  jump: {fileID: 8300000, guid: ee5708ae130493b49b442265e139bdd3, type: 3}
+  coinCollected: {fileID: 8300000, guid: 6686a3a39d84f2f4aaab8a6cb6d2fd13, type: 3}
+--- !u!4 &1634246677
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1634246675}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 21.114658, y: -0.40136307, z: -0.04608519}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1168284188}
+  - {fileID: 1065280411}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1645017257
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8290,6 +8628,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 1726954054}
   coinPrefab: {fileID: 1739379298}
+  audioManager: {fileID: 0}
 --- !u!70 &1726954054
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -8385,6 +8724,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 1743363567}
   coinPrefab: {fileID: 1888625103}
+  audioManager: {fileID: 0}
 --- !u!70 &1743363567
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -9369,6 +9709,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 2008006591}
   coinPrefab: {fileID: 1188127117}
+  audioManager: {fileID: 0}
 --- !u!70 &2008006591
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -9454,6 +9795,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 2016877418}
   coinPrefab: {fileID: 31465681}
+  audioManager: {fileID: 0}
 --- !u!70 &2016877418
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -9931,6 +10273,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 2080482430}
   coinPrefab: {fileID: 322156506}
+  audioManager: {fileID: 0}
 --- !u!70 &2080482430
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -10355,6 +10698,7 @@ MonoBehaviour:
   playerTag: Player
   coinCollider: {fileID: 2147365861}
   coinPrefab: {fileID: 447996433}
+  audioManager: {fileID: 0}
 --- !u!1001 &1402099931884151817
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10379,6 +10723,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3285122350418924375, guid: 2b209d5ddfeca4644a43f2e6defe1e65, type: 3}
+      propertyPath: audioManager
+      value: 
+      objectReference: {fileID: 1634246676}
     - target: {fileID: 4058724546110463121, guid: 2b209d5ddfeca4644a43f2e6defe1e65, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -10857,3 +11205,4 @@ SceneRoots:
   - {fileID: 6825190792278038926}
   - {fileID: 1435169961}
   - {fileID: 97412322}
+  - {fileID: 1634246677}

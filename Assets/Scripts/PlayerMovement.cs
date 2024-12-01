@@ -17,10 +17,12 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private Animator animator;
 
+    public AudioManager audioManager;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        audioManager = GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>();
     }
 
     // Update is called once per frame
@@ -34,6 +36,7 @@ public class PlayerMovement : MonoBehaviour
         if(Input.GetButtonDown("Jump") && IsGrounded())
         {
             rb.velocity = new Vector2(rb.velocity.x,jumpForce);
+            audioManager.SFXSound(audioManager.jump);
             animator.SetBool("isJumping", true);
 
         } else if(IsGrounded())
