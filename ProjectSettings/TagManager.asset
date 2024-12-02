@@ -8,6 +8,7 @@ TagManager:
   - Head
   - Ground
   - AudioManager
+  - GO_AudioManager
   layers:
   - Default
   - TransparentFX
