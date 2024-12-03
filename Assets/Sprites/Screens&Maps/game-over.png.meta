@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7715bb944f21a12489656251615f972d
+guid: 03a02afe1e48eca46b7d3d949050e93a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1160903206955174139
-    second: NES - Super Mario Bros 3 - Title Screen_0
+      213: -6611564848136732820
+    second: game-over_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,22 +113,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: NES - Super Mario Bros 3 - Title Screen_0
+      name: game-over_0
       rect:
         serializedVersion: 2
-        x: 514
-        y: 227
-        width: 258
-        height: 223
+        x: 6
+        y: 28
+        width: 127
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bf8cc25e05b5c1010800000000000000
-      internalID: 1160903206955174139
+      spriteID: c6fb959dcc00f34a0800000000000000
+      internalID: -6611564848136732820
       vertices: []
       indices: 
       edges: []
@@ -136,7 +136,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 414bf21b4c9a4294a84ebc74f80c3e76
+    spriteID: 6b760b8aaafd78f4c8ae6dfaff1db2b5
     internalID: 0
     vertices: []
     indices: 
@@ -144,7 +144,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      NES - Super Mario Bros 3 - Title Screen_0: 1160903206955174139
+      game-over_0: -6611564848136732820
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

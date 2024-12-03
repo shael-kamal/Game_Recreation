@@ -6,8 +6,8 @@ public class CoinsCollected : MonoBehaviour
 {
 
     public string playerTag = "Player";
-    public Collider2D coinCollider;
-    public GameObject coinPrefab;
+    //public Collider2D coinCollider;
+
 
     public AudioManager audioManager;
     private void Start()
@@ -16,14 +16,14 @@ public class CoinsCollected : MonoBehaviour
 
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         collision.gameObject.CompareTag(playerTag);
         Debug.Log(collision.gameObject + "has collided");
         audioManager.SFXSound(audioManager.coinCollected);
-        Destroy(coinPrefab);
+        Destroy(gameObject);
+        GameManager.Instance.CollectCoin();
     }
-
-
 
 }

@@ -45,7 +45,8 @@ public class CoinBlock : MonoBehaviour
             Instantiate(coin, transform.position, Quaternion.identity);
             gameObject.GetComponent<Animator>().enabled = false;
             gameObject.GetComponent<SpriteRenderer>().sprite = sprite;
-            isHit = true; 
+            isHit = true;
+            GameManager.Instance.CollectCoin();
         } else if (!hasCoin && !isHit)
         {
             Instantiate(mushroom, transform.position + offset, Quaternion.identity);

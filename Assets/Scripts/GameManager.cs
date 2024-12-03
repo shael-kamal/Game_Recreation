@@ -1,103 +1,191 @@
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using TMPro.Examples;
 
-[DefaultExecutionOrder(-1)]
 public class GameManager : MonoBehaviour
 {
-    public static GameManager Instance { get; private set; }
+    public static GameManager Instance; // Singleton instance
 
-    public int world { get; private set; } = 1;
-    public int stage { get; private set; } = 1;
-    public int lives { get; private set; } = 3;
-    public int coins { get; private set; } = 0;
+    [Header("UI Elements")]
+    public GameObject mainMenuPanel;
+    public GameObject gameOverPanel;
+    public GameObject hudPanel;
+    public Text scoreText;
+    //public Text livesText;
+    //public Text levelText;
+
+    [Header("Audio")]
+    public AudioSource backgroundMusic;
+    public AudioClip gameOverSound;
+    public AudioClip victorySound;
+
+    [Header("Gameplay Settings")]
+    public int startingLives = 3;
+    public int pointsPerCoin = 10;
+    public int pointsPerEnemy = 100;
+
+    private int score = 0;
+    private int lives;
+    private int currentLevel = 1;
+    [SerializeField] GameObject mario;
+
+
+    private bool isGameOver = false;
 
     private void Awake()
     {
-        if (Instance != null)
+        // Singleton pattern
+        if (Instance == null)
         {
-            DestroyImmediate(gameObject);
+            Instance = this;
+            DontDestroyOnLoad(gameObject); // Persist across scenes
         }
         else
         {
-            Instance = this;
-            DontDestroyOnLoad(gameObject);
-        }
-    }
-
-    private void OnDestroy()
-    {
-        if (Instance == this)
-        {
-            Instance = null;
+            Destroy(gameObject);
         }
     }
 
     private void Start()
     {
-        Application.targetFrameRate = 60;
-        NewGame();
+        ShowMainMenu();
     }
 
-    public void NewGame()
+    private void ShowMainMenu()
     {
-        lives = 3;
-        coins = 0;
+        mainMenuPanel.SetActive(true);
+        gameOverPanel.SetActive(false);
+        hudPanel.SetActive(false);
 
-        LoadLevel(1, 1);
+        if (backgroundMusic != null)
+        {
+            backgroundMusic.Stop();
+        }
+
+        //mario.SetActive(false);
     }
 
-    public void GameOver()
+    public void StartGame()
     {
-        NewGame();
+        
+        score = 0;
+        lives = startingLives;
+        currentLevel = 1;
+        isGameOver = false;
+
+        mainMenuPanel.SetActive(false);
+        gameOverPanel.SetActive(false);
+        hudPanel.SetActive(true);
+        UpdateUI();
+
+        if (backgroundMusic != null)
+        {
+            backgroundMusic.Play();
+        }
+
+        LoadLevel(currentLevel);
     }
 
-    public void LoadLevel(int world, int stage)
+    private void LoadLevel(int level)
     {
-        this.world = world;
-        this.stage = stage;
+        //levelText.text = $"Level: {level}";
+        // Replace with your actual level-loading logic
+        //SceneManager.LoadScene("Level" + level); // Assumes levels are named Level1, Level2, etc.
+    }
 
-        SceneManager.LoadScene($"{world}-{stage}");
+    private void UpdateUI()
+    {
+        scoreText.text = $"score: {score}";
+        //livesText.text = $"lives: {lives}";
+    }
+
+    public void AddScore(int points)
+    {
+        if (isGameOver) return;
+
+        score += points;
+        UpdateUI();
+    }
+
+    public void LoseLife()
+    {
+        if (isGameOver) return;
+
+        lives--;
+        UpdateUI();
+
+        if (lives <= 0)
+        {
+            TriggerGameOver();
+        }
+    }
+
+    public void TriggerGameOver()
+    {
+        isGameOver = true;
+        hudPanel.SetActive(false);
+        gameOverPanel.SetActive(true);
+
+        if (backgroundMusic != null)
+        {
+            backgroundMusic.Stop();
+        }
+
+        if (gameOverSound != null)
+        {
+            AudioSource.PlayClipAtPoint(gameOverSound, Camera.main.transform.position);
+        }
+
+        Debug.Log("Game Over!");
+    }
+
+    public void Victory()
+    {
+        if (isGameOver) return;
+
+        isGameOver = true;
+        hudPanel.SetActive(false);
+        gameOverPanel.SetActive(true);
+        gameOverPanel.GetComponentInChildren<Text>().text = "You Win!";
+
+        if (backgroundMusic != null)
+        {
+            backgroundMusic.Stop();
+        }
+
+        if (victorySound != null)
+        {
+            AudioSource.PlayClipAtPoint(victorySound, Camera.main.transform.position);
+        }
+
+        Debug.Log("Victory!");
+    }
+
+    public void RestartGame()
+    {
+        SceneManager.LoadScene("Game");
+    }
+
+    public void QuitGame()
+    {
+        Application.Quit();
     }
 
     public void NextLevel()
     {
-        LoadLevel(world, stage + 1);
+        //currentLevel++;
+        //LoadLevel(currentLevel);
     }
 
-    public void ResetLevel(float delay)
+    // Example triggers for coins and enemies
+    public void CollectCoin()
     {
-        CancelInvoke(nameof(ResetLevel));
-        Invoke(nameof(ResetLevel), delay);
+        AddScore(pointsPerCoin);
     }
 
-    public void ResetLevel()
+    public void DefeatEnemy()
     {
-        lives--;
-
-        if (lives > 0)
-        {
-            LoadLevel(world, stage);
-        }
-        else
-        {
-            GameOver();
-        }
+        AddScore(pointsPerEnemy);
     }
-
-    public void AddCoin()
-    {
-        coins++;
-
-        if (coins == 100)
-        {
-            coins = 0;
-            AddLife();
-        }
-    }
-
-    public void AddLife()
-    {
-        lives++;
-    }
-
 }

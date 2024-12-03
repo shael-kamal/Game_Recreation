@@ -25,16 +25,17 @@ public class GoombaScript : MonoBehaviour
 
         if (collision.gameObject.CompareTag("Player"))
         {
-            // Determine the collision normal relative to the enemy
+ 
             Vector2 collisionNormal = collision.contacts[0].normal;
 
-            if (collisionNormal.y < -0.8f) // Player hits the enemy from above
+            if (collisionNormal.y < -0.8f) 
             {
                 animator.enabled = false;
                 gameObject.GetComponent<CapsuleCollider2D>().offset = new Vector2(0, 0.1f);
                 gameObject.GetComponent<SpriteRenderer>().sprite = squished;
                 Destroy(gameObject, 0.5f);
                 Debug.Log("done");
+                GameManager.Instance.DefeatEnemy();
                 PlayerBounce(collision.gameObject);
             }
            

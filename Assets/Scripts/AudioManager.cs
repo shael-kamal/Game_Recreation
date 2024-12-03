@@ -10,14 +10,14 @@ public class AudioManager : MonoBehaviour
 
 
     [Header("--------AUDIO CLIPS---------")]
-    public AudioClip background;
+    //public AudioClip background;
     public AudioClip jump;
     public AudioClip coinCollected;
 
     private void Start()
     {
-        musicSource.clip = background;
-        musicSource.Play();
+       // musicSource.clip = background;
+        //musicSource.Play();
     }
 
     public void SFXSound(AudioClip clip)
