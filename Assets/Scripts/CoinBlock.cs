@@ -4,9 +4,8 @@ using UnityEngine;
 
 public class CoinBlock : MonoBehaviour
 {
-    public string playerTag = "Player"; // Tag assigned to the player object
-    public float circleRadius = 0.5f; // Radius of the circle for detection
-    public float detectionOffset = 0.5f; // Distance below the block to start the detection
+    [SerializeField] private float sphereCastRadius = 0.5f; // Radius of the sphere
+    [SerializeField] private float sphereCastDistance = 1.0f; // Distance to cast the sphere
     public GameObject coin;
     public GameObject mushroom;
 
@@ -24,25 +23,21 @@ public class CoinBlock : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-        // Define the circle's center position below the block
-        Vector2 circleCenter = new Vector2(transform.position.x, transform.position.y - detectionOffset);
-
-        // Perform a circle cast to detect colliders within the specified radius
-        Collider2D hit = Physics2D.OverlapCircle(circleCenter, circleRadius);
-
-        // Debugging: Draw the circle in the Scene view
-        Debug.DrawRay(circleCenter, Vector2.up * 0.1f, Color.green, 1.0f); // Center point
-        Debug.DrawRay(circleCenter, Vector2.right * circleRadius, Color.red, 1.0f); // Radius visualization
-
-        // Check if the detected collider has the correct tag
-        if (hit != null && hit.CompareTag(playerTag))
+        if (collision.gameObject.CompareTag("Player"))
         {
-            OnPlayerDetected(hit.gameObject);
+            // Determine collision point relative to the block
+            Vector2 collisionNormal = collision.contacts[0].normal;
+
+            // Check if the collision normal is pointing down (player hitting the block's bottom)
+            if (collisionNormal.y > 0.9f)
+            {
+                OnPlayerDetected();
+            }
         }
-        
+
     }
 
-    void OnPlayerDetected(GameObject player)
+    void OnPlayerDetected()
     {
         Vector3 offset = new Vector3(0f, 0.5f, 0f);
         if (hasCoin && !isHit)
