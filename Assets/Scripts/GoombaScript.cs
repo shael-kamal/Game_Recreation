@@ -19,18 +19,38 @@ public class GoombaScript : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.collider.CompareTag("Player")){
-            if(collision.collider.transform.position.y > transform.position.y){
+       
+
+
+
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            // Determine the collision normal relative to the enemy
+            Vector2 collisionNormal = collision.contacts[0].normal;
+
+            if (collisionNormal.y < -0.8f) // Player hits the enemy from above
+            {
                 animator.enabled = false;
                 gameObject.GetComponent<CapsuleCollider2D>().offset = new Vector2(0, 0.1f);
                 gameObject.GetComponent<SpriteRenderer>().sprite = squished;
                 Destroy(gameObject, 0.5f);
                 Debug.Log("done");
+                PlayerBounce(collision.gameObject);
             }
-
-            
-            
+           
         }
+    }
+
+    private void PlayerBounce(GameObject player)
+    {
+        // Add an upward force to simulate a bounce
+        Rigidbody2D playerRb = player.GetComponent<Rigidbody2D>();
+        if (playerRb != null)
+        {
+            playerRb.velocity = new Vector2(playerRb.velocity.x, 10f); // Adjust bounce height as needed
+        }
+
+        Debug.Log("Player bounced!");
     }
 
 }

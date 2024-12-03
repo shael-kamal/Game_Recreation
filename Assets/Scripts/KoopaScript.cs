@@ -34,8 +34,10 @@ public class KoopaScript : MonoBehaviour
         {
             if (collision.collider.CompareTag("Player"))
             {
-                if(collision.collider.transform.position.y > transform.position.y)
-                    {
+                Vector2 collisionNormal = collision.contacts[0].normal;
+
+                if (collisionNormal.y < -0.5)
+                {
                         animator.enabled = false;
                         gameObject.GetComponent<EnemyPatrol>().enabled = false;
                         gameObject.GetComponent<CapsuleCollider2D>().offset = new Vector2(0, 0.1f);
