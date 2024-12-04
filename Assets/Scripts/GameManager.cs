@@ -15,6 +15,9 @@ public class GameManager : MonoBehaviour
     public Text coinText;
     //public Text livesText;
     //public Text levelText;
+    public Text timerText; 
+    private float timeRemaining = 300f;
+    private bool timerRunning = true;
 
     [Header("Audio")]
     public AudioSource backgroundMusic;
@@ -66,6 +69,37 @@ public class GameManager : MonoBehaviour
         }
 
         //mario.SetActive(false);
+    }
+
+    private void Update()
+    {
+        if (timerRunning)
+        {
+            if (timeRemaining > 0)
+            {
+                timeRemaining -= Time.deltaTime;
+                UpdateTimerUI();
+            }
+            else
+            {
+                timeRemaining = 0;
+                timerRunning = false;
+                TimerEnded();
+            }
+        }
+    }
+
+
+    private void UpdateTimerUI()
+    {
+        
+        timerText.text =  Mathf.FloorToInt(timeRemaining).ToString();
+    }
+
+    private void TimerEnded()
+    {
+        Debug.Log("Timer has ended!");
+        
     }
 
     public void StartGame()

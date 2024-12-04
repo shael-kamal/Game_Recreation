@@ -72,4 +72,9 @@ public class PlayerMovement : MonoBehaviour
             transform.localScale = localScale;
         }
     }
+
+    public void Hit()
+    {
+        Debug.Log("MarioHit");
+    }
 }

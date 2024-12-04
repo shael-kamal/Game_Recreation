@@ -6,6 +6,7 @@ public class CoinBlock : MonoBehaviour
 {
     [SerializeField] private float sphereCastRadius = 0.5f; // Radius of the sphere
     [SerializeField] private float sphereCastDistance = 1.0f; // Distance to cast the sphere
+    [SerializeField] private AudioManager audioManager;
     public GameObject coin;
     public GameObject mushroom;
 
@@ -15,10 +16,9 @@ public class CoinBlock : MonoBehaviour
 
     public Sprite sprite;
 
-    private void Awake()
+    private void Start()
     {
-        
-
+        audioManager = GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>();
     }
 
     void OnCollisionEnter2D(Collision2D collision)
@@ -45,6 +45,7 @@ public class CoinBlock : MonoBehaviour
             Instantiate(coin, transform.position, Quaternion.identity);
             gameObject.GetComponent<Animator>().enabled = false;
             gameObject.GetComponent<SpriteRenderer>().sprite = sprite;
+            audioManager.SFXSound(audioManager.coinCollected);
             isHit = true;
             GameManager.Instance.CollectCoin();
         } else if (!hasCoin && !isHit)

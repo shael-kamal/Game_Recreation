@@ -38,6 +38,10 @@ public class GoombaScript : MonoBehaviour
                 GameManager.Instance.DefeatEnemy();
                 PlayerBounce(collision.gameObject);
             }
+            else
+            {
+                collision.gameObject.GetComponent<PlayerMovement>().Hit();
+            }
            
         }
     }
