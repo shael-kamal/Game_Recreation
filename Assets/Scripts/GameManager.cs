@@ -12,6 +12,7 @@ public class GameManager : MonoBehaviour
     public GameObject gameOverPanel;
     public GameObject hudPanel;
     public Text scoreText;
+    public Text coinText;
     //public Text livesText;
     //public Text levelText;
 
@@ -28,6 +29,7 @@ public class GameManager : MonoBehaviour
     private int score = 0;
     private int lives;
     private int currentLevel = 1;
+    private int coinsCollected = 0;
     [SerializeField] GameObject mario;
 
 
@@ -96,7 +98,45 @@ public class GameManager : MonoBehaviour
 
     private void UpdateUI()
     {
-        scoreText.text = $"score: {score}";
+        //scoreText.text = $"score: {score}";
+
+        // Update ScoreText
+        if (score == 0)
+        {
+            scoreText.text = "00000";
+        }
+        else if (score <= 9 && score > 0)
+        {
+            scoreText.text = "0000" + score;
+        }
+        else if (score <= 99 && score >= 10)
+        {
+            scoreText.text = "000" + score;
+        }
+        else if (score <= 999 && score >= 100)
+        {
+            scoreText.text = "00" + score;
+        }
+        else if (score <= 9999 && score >= 1000)
+        {
+            scoreText.text = "0" + score;
+        }
+
+
+
+        // Updates CoinText
+        if (coinsCollected == 0)
+        {
+            coinText.text = "00";
+        }
+        else if (coinsCollected <= 9 && score > 0)
+        {
+            coinText.text = "0" + coinsCollected;
+        }
+        else if (score <= 99 && score >= 10)
+        {
+            coinText.text = "" + coinsCollected;
+        }
         //livesText.text = $"lives: {lives}";
     }
 
@@ -181,6 +221,7 @@ public class GameManager : MonoBehaviour
     // Example triggers for coins and enemies
     public void CollectCoin()
     {
+        coinsCollected += 2;
         AddScore(pointsPerCoin);
     }
 
