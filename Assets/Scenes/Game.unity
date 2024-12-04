@@ -255,7 +255,7 @@ GameObject:
   m_Component:
   - component: {fileID: 47803232}
   - component: {fileID: 47803233}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ground6
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -1802,6 +1802,7 @@ MonoBehaviour:
   hudPanel: {fileID: 1645272099}
   scoreText: {fileID: 861416620}
   coinText: {fileID: 1121787112}
+  timerText: {fileID: 1917797002}
   backgroundMusic: {fileID: 1065280410}
   gameOverSound: {fileID: 0}
   victorySound: {fileID: 0}
@@ -2935,7 +2936,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -8527568592950175283, guid: f2f90ac3b4e9fce4baeea98864890d57, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5176,7 +5177,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -8527568592950175283, guid: f2f90ac3b4e9fce4baeea98864890d57, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5213,7 +5214,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1207044539}
   - component: {fileID: 1207044540}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ground5
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -5340,7 +5341,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -8527568592950175283, guid: f2f90ac3b4e9fce4baeea98864890d57, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6273,7 +6274,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -8527568592950175283, guid: f2f90ac3b4e9fce4baeea98864890d57, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

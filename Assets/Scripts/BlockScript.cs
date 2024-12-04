@@ -10,6 +10,7 @@ public class BlockScript : MonoBehaviour
     [SerializeField] private BoxCollider2D body;
 
 
+
     void Start()
     {
         
