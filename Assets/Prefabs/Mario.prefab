@@ -204,6 +204,8 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   animator: {fileID: 6298170406236829509}
+  dead: {fileID: 0}
+  audioManager: {fileID: 0}
 --- !u!95 &6298170406236829509
 Animator:
   serializedVersion: 7
@@ -399,6 +401,8 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   animator: {fileID: 8228928792024945557}
+  dead: {fileID: 5280003112213983060, guid: fb06ff60721ebb6468a7980ac7ccbfa0, type: 3}
+  audioManager: {fileID: 0}
 --- !u!95 &8228928792024945557
 Animator:
   serializedVersion: 7

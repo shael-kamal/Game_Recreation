@@ -36,20 +36,21 @@ public class KoopaScript : MonoBehaviour
             {
                 Vector2 collisionNormal = collision.contacts[0].normal;
 
-                if (collisionNormal.y < -0.5)
+                if (collisionNormal.y < -0.3)
                 {
-                        animator.enabled = false;
-                        gameObject.GetComponent<EnemyPatrol>().enabled = false;
-                        gameObject.GetComponent<CapsuleCollider2D>().offset = new Vector2(0, 0.1f);
-                        gameObject.GetComponent<SpriteRenderer>().sprite = shelled;
-                        isShelled = true;
-                    } else
-                {
-                    //KILL MARIO
+                    animator.enabled = false;
+                    gameObject.GetComponent<EnemyPatrol>().enabled = false;
+                    gameObject.GetComponent<CapsuleCollider2D>().offset = new Vector2(0, 0.1f);
+                    gameObject.GetComponent<SpriteRenderer>().sprite = shelled;
+                    isShelled = true;
                 }
-                
+                else if (Mathf.Abs(collisionNormal.x) > 0.3f && Mathf.Abs(collisionNormal.y) < 0.3f)
+                {
+                    collision.gameObject.GetComponent<PlayerMovement>().Hit();
+                }
 
-            }
+
+                }
         }
         if(shellMoving)
         {
@@ -81,5 +82,11 @@ public class KoopaScript : MonoBehaviour
             shellMoving = true;
 
         }
+        else if (isShelled)
+        {
+            Destroy(gameObject,0.1f);
+        }
+
+        
     }
 }

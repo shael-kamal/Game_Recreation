@@ -23,6 +23,7 @@ public class GameManager : MonoBehaviour
     public AudioSource backgroundMusic;
     public AudioClip gameOverSound;
     public AudioClip victorySound;
+    public AudioClip deathSound;
 
     [Header("Gameplay Settings")]
     public int startingLives = 3;
@@ -262,5 +263,11 @@ public class GameManager : MonoBehaviour
     public void DefeatEnemy()
     {
         AddScore(pointsPerEnemy);
+    }
+
+    public void PlayerDeath()
+    {
+        backgroundMusic.Stop();
+        AudioSource.PlayClipAtPoint(deathSound, Camera.main.transform.position);
     }
 }

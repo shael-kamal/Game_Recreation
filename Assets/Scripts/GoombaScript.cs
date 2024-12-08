@@ -28,17 +28,19 @@ public class GoombaScript : MonoBehaviour
  
             Vector2 collisionNormal = collision.contacts[0].normal;
 
-            if (collisionNormal.y < -0.8f) 
+            if (collisionNormal.y < -0.3f) 
             {
                 animator.enabled = false;
                 gameObject.GetComponent<CapsuleCollider2D>().offset = new Vector2(0, 0.1f);
                 gameObject.GetComponent<SpriteRenderer>().sprite = squished;
+                gameObject.GetComponent<Collider2D>().enabled = false;
+                gameObject.GetComponent<Rigidbody2D>().isKinematic = true;
                 Destroy(gameObject, 0.5f);
                 Debug.Log("done");
                 GameManager.Instance.DefeatEnemy();
                 PlayerBounce(collision.gameObject);
             }
-            else
+            else if (Mathf.Abs(collisionNormal.x) > 0.3f && Mathf.Abs(collisionNormal.y) < 0.3f)
             {
                 collision.gameObject.GetComponent<PlayerMovement>().Hit();
             }
@@ -58,4 +60,6 @@ public class GoombaScript : MonoBehaviour
         Debug.Log("Player bounced!");
     }
 
+
+  
 }

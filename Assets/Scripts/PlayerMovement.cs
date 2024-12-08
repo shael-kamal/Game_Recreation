@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
@@ -16,6 +17,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private Animator animator;
+    [SerializeField] private Sprite dead;
 
     public AudioManager audioManager;
 
@@ -75,6 +77,39 @@ public class PlayerMovement : MonoBehaviour
 
     public void Hit()
     {
-        Debug.Log("MarioHit");
+        GameManager.Instance.PlayerDeath();
+        StartCoroutine(HandleCollision());
+        
     }
+
+    IEnumerator HandleCollision()
+    {
+        Rigidbody2D rb = GetComponent<Rigidbody2D>();
+
+
+        gameObject.GetComponent<Animator>().enabled = false;
+        gameObject.GetComponent<SpriteRenderer>().sprite = dead;
+
+        // Disable collisions to avoid multiple triggers
+        Collider2D marioCollider = GetComponent<Collider2D>();
+        marioCollider.enabled = false;
+
+        // Apply upward force
+        rb.velocity = new Vector2(rb.velocity.x, 15f);
+
+        // Wait for a moment before falling back
+        yield return new WaitForSeconds(0.5f);
+
+        // Allow Mario to fall naturally due to gravity
+        yield return new WaitForSeconds(1f);
+
+        
+        Destroy(gameObject);
+        
+        GameManager.Instance.TriggerGameOver();
+    }
+
+
+
+
 }

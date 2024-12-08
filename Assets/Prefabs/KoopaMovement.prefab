@@ -185,8 +185,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.032273754, y: -0.1250608}
-  m_Size: {x: 0.4979525, y: 0.6248784}
+  m_Offset: {x: 0.032273754, y: -0.18852375}
+  m_Size: {x: 0.4979525, y: 0.4979525}
   m_Direction: 0
 --- !u!95 &3186812923885840544
 Animator:
@@ -238,7 +238,7 @@ MonoBehaviour:
   pointB: {fileID: 5783091658551692651}
   rb: {fileID: 6566172226728605409}
   currentpos: {fileID: 8382033298966441565}
-  speed: 3
+  speed: 1
 --- !u!114 &7640543477923143500
 MonoBehaviour:
   m_ObjectHideFlags: 0
