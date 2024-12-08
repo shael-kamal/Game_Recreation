@@ -9,6 +9,7 @@ TagManager:
   - Ground
   - AudioManager
   - GO_AudioManager
+  - Mushroom
   layers:
   - Default
   - TransparentFX
