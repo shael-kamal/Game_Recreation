@@ -24,6 +24,9 @@ public class GameManager : MonoBehaviour
     public AudioClip gameOverSound;
     public AudioClip victorySound;
     public AudioClip deathSound;
+    public AudioClip powerupSound;
+    public AudioClip powerdownSound;
+    public AudioClip mushroomSound;
 
     [Header("Gameplay Settings")]
     public int startingLives = 3;
@@ -38,6 +41,7 @@ public class GameManager : MonoBehaviour
 
 
     private bool isGameOver = false;
+
 
     private void Awake()
     {
@@ -269,5 +273,20 @@ public class GameManager : MonoBehaviour
     {
         backgroundMusic.Stop();
         AudioSource.PlayClipAtPoint(deathSound, Camera.main.transform.position);
+    }
+
+    public void PowerUp()
+    {
+        AudioSource.PlayClipAtPoint(powerupSound, Camera.main.transform.position);
+    }
+
+    public void PowerDown()
+    {
+        AudioSource.PlayClipAtPoint(powerdownSound, Camera.main.transform.position);
+    }
+
+    public void MushroomAppears()
+    {
+        AudioSource.PlayClipAtPoint(mushroomSound, Camera.main.transform.position);
     }
 }
