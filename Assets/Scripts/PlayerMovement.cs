@@ -21,7 +21,7 @@ public class PlayerMovement : MonoBehaviour
 
     public float maxJumpForce = 15f; // Maximum jump force
     public float chargeRate = .1f;  // Rate of charging jump force
-    public float maxJumpTime = 0.1f; // Maximum time for jump force to be applied
+    public float maxJumpTime = 0.01f; // Maximum time for jump force to be applied
 
 
     [SerializeField] private Rigidbody2D rb;

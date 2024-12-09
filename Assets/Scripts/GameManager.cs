@@ -10,6 +10,7 @@ public class GameManager : MonoBehaviour
     [Header("UI Elements")]
     public GameObject mainMenuPanel;
     public GameObject gameOverPanel;
+    public GameObject victoryPanel;
     public GameObject hudPanel;
     public Text scoreText;
     public Text coinText;
@@ -225,8 +226,8 @@ public class GameManager : MonoBehaviour
 
         isGameOver = true;
         hudPanel.SetActive(false);
-        gameOverPanel.SetActive(true);
-        gameOverPanel.GetComponentInChildren<Text>().text = "You Win!";
+        victoryPanel.SetActive(true);
+        
 
         if (backgroundMusic != null)
         {
